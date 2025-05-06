@@ -1,4 +1,7 @@
-# 💫 About Me:
+Hi there 👋
+
+I am Zhameer Sheraz Tampugao
+
 Java Enthusiast | Cybersecurity Learner | Ethical Hacking | Network Security | Java in Security | Cyber Threats | Beginner Projects
 
 
