@@ -1,6 +1,6 @@
 # 💫 About Me:
 
-#### **Hi there 👋**
+## **Hi there 👋**
 
 ### **I am Zhameer Sheraz Tampugao**  
 
