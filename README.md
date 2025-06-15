@@ -6,7 +6,7 @@
 
 
 
-Java Enthusiast | Cybersecurity Learner | Ethical Hacking | Network Security | Java in Security | Cyber Threats | Beginner Projects
+Java Enthusiast | Cybersecurity Learner | Network Security | Java in Security | Cyber Threats | Beginner Projects
 
 
 
