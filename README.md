@@ -1,19 +1,19 @@
-# Hi, I'm Zhameer Sheraz Tampugao
+# Hi, I'm Zhameer Sheraz Tampugao 👋
 
-### Java Developer | Cybersecurity Enthusiast | Security Researcher in Training
+**Java Developer | Cybersecurity Enthusiast | Security Researcher in Training**
 
-I'm passionate about building secure systems and exploring the intersection of software development and cybersecurity. Currently diving deep into network security, threat analysis, and implementing security best practices in Java applications.
+I'm passionate about building secure systems and exploring the intersection of software development and cybersecurity. Currently focused on network security, threat analysis, and implementing security best practices in Java applications.
 
 ---
 
-## What I'm Focused On
+## 🔐 Focus Areas
 
-- **Security-First Development**: Writing secure Java applications with security patterns and best practices
-- **Network Security**: Learning packet analysis, network protocols, and intrusion detection
-- **Threat Analysis**: Understanding cyber threats and how to defend against them
-- **Hands-on Learning**: Building practical security tools and CTF challenges
+- Security-First Development: Writing secure Java applications with best practices
+- Network Security: Learning packet analysis, protocols, and intrusion detection
+- Threat Analysis: Understanding cyber threats and defense strategies
+- Hands-on Learning: Building practical security tools and CTF challenges
 
-## Currently Learning
+## 🌱 Currently Learning
 
 - Penetration testing methodologies and tools
 - Secure coding practices in Java
@@ -21,18 +21,18 @@ I'm passionate about building secure systems and exploring the intersection of s
 - Python for security automation
 - Web application security (OWASP Top 10)
 
-## Tech Stack
+## 💻 Tech Stack
 
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 ![Bash Script](https://img.shields.io/badge/bash_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white)
 
-**Security Tools & Frameworks**: Wireshark, Burp Suite, Metasploit (learning), Nmap
+**Security Tools**: Wireshark · Burp Suite · Metasploit · Nmap
 
 ---
 
-## GitHub Stats
+## 📊 GitHub Stats
 
 <div align="center">
   
@@ -46,17 +46,15 @@ I'm passionate about building secure systems and exploring the intersection of s
 
 ---
 
-## What I'm Building Towards
+## 🎯 Building Towards
 
 - Competing in CTF competitions and security challenges
-- Building and publishing security-focused projects
-- Contributing to open-source security tools
+- Publishing security-focused open-source projects
+- Contributing to security tools and communities
 - Earning cybersecurity certifications
 - Sharing knowledge through technical writing
 
-## Let's Connect
-
-I'm always open to collaborating on security projects, discussing Java development, or learning together. Feel free to reach out!
+## 🤝 Connect
 
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://www.facebook.com/ZhameerSherazTampugao/)
 
@@ -65,7 +63,5 @@ I'm always open to collaborating on security projects, discussing Java developme
 <div align="center">
 
 [![](https://visitcount.itsvg.in/api?id=zhameersheraz&icon=0&color=0)](https://visitcount.itsvg.in)
-
-*"Security is not a product, but a process." - Bruce Schneier*
 
 </div>
