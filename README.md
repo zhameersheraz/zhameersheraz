@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Zhameer Sheraz Tampugao
+# Hi, I'm Zhameer Sheraz Tampugao
 
 ### Java Developer | Cybersecurity Enthusiast | Security Researcher in Training
 
@@ -6,14 +6,14 @@ I'm passionate about building secure systems and exploring the intersection of s
 
 ---
 
-## 🔐 What I'm Focused On
+## What I'm Focused On
 
 - **Security-First Development**: Writing secure Java applications with security patterns and best practices
 - **Network Security**: Learning packet analysis, network protocols, and intrusion detection
 - **Threat Analysis**: Understanding cyber threats and how to defend against them
 - **Hands-on Learning**: Building practical security tools and CTF challenges
 
-## 🌱 Currently Learning
+## Currently Learning
 
 - Penetration testing methodologies and tools
 - Secure coding practices in Java
@@ -21,7 +21,7 @@ I'm passionate about building secure systems and exploring the intersection of s
 - Python for security automation
 - Web application security (OWASP Top 10)
 
-## 💻 Tech Stack
+## Tech Stack
 
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
@@ -32,7 +32,7 @@ I'm passionate about building secure systems and exploring the intersection of s
 
 ---
 
-## 📊 GitHub Stats
+## GitHub Stats
 
 <div align="center">
   
@@ -46,7 +46,7 @@ I'm passionate about building secure systems and exploring the intersection of s
 
 ---
 
-## 🎯 What I'm Building Towards
+## What I'm Building Towards
 
 - Competing in CTF competitions and security challenges
 - Building and publishing security-focused projects
@@ -54,7 +54,7 @@ I'm passionate about building secure systems and exploring the intersection of s
 - Earning cybersecurity certifications
 - Sharing knowledge through technical writing
 
-## 🤝 Let's Connect
+## Let's Connect
 
 I'm always open to collaborating on security projects, discussing Java development, or learning together. Feel free to reach out!
 
