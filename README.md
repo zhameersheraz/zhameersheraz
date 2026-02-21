@@ -109,3 +109,4 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,3,4,6&height=100&section=footer&text=Thanks%20for%20visiting!&fontSize=30&fontColor=00D9FF&animation=twinkling" width="100%"/>
 
 </div>
+
