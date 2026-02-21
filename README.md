@@ -2,10 +2,10 @@
 
 # 🔐 ZHAMEER SHERAZ TAMPUGAO
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=00F7F7&center=true&vCenter=true&width=600&lines=Security+Researcher+%7C+Developer;Cybersecurity+Enthusiast;Ethical+Hacker+in+Training;CTF+Player+%26+Bug+Hunter" alt="Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&lines=Security+Researcher+%7C+Developer;Cybersecurity+Enthusiast;Ethical+Hacker+in+Training;CTF+Player+%26+Bug+Hunter" alt="Typing SVG" />
 
-[![GitHub followers](https://img.shields.io/github/followers/zhameersheraz?style=for-the-badge&color=00ff00&labelColor=000000)](https://github.com/zhameersheraz)
-[![Profile Views](https://komarev.com/ghpvc/?username=zhameersheraz&style=for-the-badge&color=00ff00&label=PROFILE+VIEWS)](https://github.com/zhameersheraz)
+[![GitHub followers](https://img.shields.io/github/followers/zhameersheraz?style=for-the-badge&color=00D9FF&labelColor=0D1117)](https://github.com/zhameersheraz)
+[![Profile Views](https://komarev.com/ghpvc/?username=zhameersheraz&style=for-the-badge&color=00D9FF&label=PROFILE+VIEWS&labelColor=0D1117)](https://github.com/zhameersheraz)
 
 </div>
 
@@ -54,22 +54,22 @@ class SecurityResearcher:
 <div align="center">
 
 ### 💻 Languages
-![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white)
+
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white&labelColor=0D1117)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white&labelColor=0D1117)
 
 ### 🔐 Security Tools
-![Kali Linux](https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kali-linux&logoColor=white)
-![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white)
-![Burp Suite](https://img.shields.io/badge/Burp_Suite-FF6633?style=for-the-badge&logo=burp-suite&logoColor=white)
-![Metasploit](https://img.shields.io/badge/Metasploit-2596CD?style=for-the-badge&logo=metasploit&logoColor=white)
-![Nmap](https://img.shields.io/badge/Nmap-0E83CD?style=for-the-badge&logo=nmap&logoColor=white)
+
+![Kali Linux](https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kali-linux&logoColor=white&labelColor=0D1117)
+![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white&labelColor=0D1117)
+![Burp Suite](https://img.shields.io/badge/Burp_Suite-FF6633?style=for-the-badge&logo=burp-suite&logoColor=white&labelColor=0D1117)
+![Nmap](https://img.shields.io/badge/Nmap-0E83CD?style=for-the-badge&logo=nmap&logoColor=white&labelColor=0D1117)
 
 ### 🗄️ Databases & Tools
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white&labelColor=0D1117)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black&labelColor=0D1117)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white&labelColor=0D1117)
 
 </div>
 
@@ -79,11 +79,11 @@ class SecurityResearcher:
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=zhameersheraz&show_icons=true&theme=chartreuse-dark&hide_border=true&bg_color=0D1117&title_color=00FF00&icon_color=00FFFF&text_color=00FF00" width="48%" />
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=zhameersheraz&theme=chartreuse-dark&hide_border=true&background=0D1117&ring=00FF00&fire=00FFFF&currStreakLabel=00FF00" width="48%" />
+<img src="https://github-readme-stats.vercel.app/api?username=zhameersheraz&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=00D9FF&text_color=C9D1D9&ring_color=00D9FF" width="48%" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=zhameersheraz&theme=tokyonight&hide_border=true&background=0D1117&ring=00D9FF&fire=00D9FF&currStreakLabel=00D9FF&sideLabels=C9D1D9&dates=8B949E" width="48%" />
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=zhameersheraz&layout=compact&theme=chartreuse-dark&hide_border=true&bg_color=0D1117&title_color=00FF00&text_color=00FF00" width="48%" />
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=zhameersheraz&custom_title=Contribution%20Graph&bg_color=0D1117&color=00FF00&line=00FFFF&point=00FFFF&area_color=00FFFF&area=true&hide_border=true" width="48%" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=zhameersheraz&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&text_color=C9D1D9" width="48%" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=zhameersheraz&custom_title=Contribution%20Graph&bg_color=0D1117&color=00D9FF&line=00D9FF&point=FFFFFF&area_color=0D1117&area=true&hide_border=true&height=300" width="48%" />
 
 </div>
 
@@ -92,27 +92,12 @@ class SecurityResearcher:
 ## 🎓 FOCUS AREAS
 
 <div align="center">
-```mermaid
-mindmap
-  root((Security
-    Focus))
-    Web Security
-      SQL Injection
-      XSS & CSRF
-      Authentication Bypass
-    Network Security
-      Packet Analysis
-      Intrusion Detection
-      Protocol Vulnerabilities
-    System Security
-      Privilege Escalation
-      Binary Exploitation
-      Reverse Engineering
-    CTF Competitions
-      Forensics
-      Cryptography
-      Web Exploitation
-```
+
+| 🌐 Web Security | 🔒 Network Security | 💻 System Security | 🏆 CTF Competitions |
+|:---------------:|:-------------------:|:------------------:|:-------------------:|
+| SQL Injection | Packet Analysis | Privilege Escalation | Forensics |
+| XSS & CSRF | Intrusion Detection | Binary Exploitation | Cryptography |
+| Authentication Bypass | Protocol Vulnerabilities | Reverse Engineering | Web Exploitation |
 
 </div>
 
@@ -120,7 +105,9 @@ mindmap
 
 ## 🚀 CURRENTLY LEARNING
 
-<table align="center">
+<div align="center">
+
+<table>
 <tr>
 <td align="center" width="50%">
 
@@ -159,37 +146,18 @@ mindmap
 </tr>
 </table>
 
+</div>
+
 ---
 
 ## 🏆 ACHIEVEMENTS & PROJECTS
 
 <div align="center">
 
-[![CTF Writeups](https://img.shields.io/badge/CTF_Writeups-Repository-00FF00?style=for-the-badge&logo=github&logoColor=white)](https://github.com/zhameersheraz/CTF-Writeups)
-[![Security Tools](https://img.shields.io/badge/Security_Tools-Coming_Soon-00FFFF?style=for-the-badge&logo=github&logoColor=white)](#)
+[![CTF Writeups](https://img.shields.io/badge/📚_CTF_Writeups-Repository-00D9FF?style=for-the-badge&logo=github&logoColor=white&labelColor=0D1117)](https://github.com/zhameersheraz/CTF-Writeups)
+[![Security Tools](https://img.shields.io/badge/🔧_Security_Tools-Coming_Soon-00D9FF?style=for-the-badge&logo=github&logoColor=white&labelColor=0D1117)](#)
 
 </div>
-
-### 📂 Featured Repositories
-```bash
-┌──(zhameer㉿security)-[~/projects]
-└─$ ls -la
-drwxr-xr-x  CTF-Writeups/          # Detailed CTF challenge solutions
-drwxr-xr-x  Security-Scripts/      # Automation & security tools
-drwxr-xr-x  Vulnerability-Reports/ # Bug bounty findings
-drwxr-xr-x  Network-Tools/         # Custom network analysis tools
-```
-
----
-
-## 🎯 2026 GOALS
-
-- [x] Build comprehensive CTF writeup repository
-- [ ] Earn eJPT certification
-- [ ] Contribute to open-source security projects
-- [ ] Participate in bug bounty programs
-- [ ] Launch security blog/YouTube channel
-- [ ] Complete OWASP Top 10 hands-on labs
 
 ---
 
@@ -197,10 +165,10 @@ drwxr-xr-x  Network-Tools/         # Custom network analysis tools
 
 <div align="center">
 
-[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://facebook.com/zhameersheraz)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](#)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:zhameersheraz@email.com)
-[![Discord](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](#)
+[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white&labelColor=0D1117)](https://facebook.com/zhameersheraz)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0D1117)](#)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0D1117)](mailto:zhameersheraz@email.com)
+[![Discord](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white&labelColor=0D1117)](#)
 
 </div>
 
@@ -210,6 +178,6 @@ drwxr-xr-x  Network-Tools/         # Custom network analysis tools
 
 ### 💡 "Security is not a product, but a process."
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer&text=Thanks%20for%20visiting!&fontSize=30&fontColor=00FF00&animation=twinkling" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,3,4,6&height=100&section=footer&text=Thanks%20for%20visiting!&fontSize=30&fontColor=00D9FF&animation=twinkling" width="100%"/>
 
 </div>
