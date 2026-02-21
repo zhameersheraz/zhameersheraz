@@ -2,12 +2,12 @@
 
 # 🔐 ZHAMEER SHERAZ TAMPUGAO
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Security+Researcher+%7C+Developer;Cybersecurity+Enthusiast;Ethical+Hacker+in+Training;CTF+Player+%26+Bug+Hunter" alt="Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=20C997&center=true&vCenter=true&width=600&lines=Security+Researcher+%7C+Developer;Cybersecurity+Enthusiast;Ethical+Hacker+in+Training;CTF+Player+%26+Bug+Hunter" alt="Typing SVG" />
 
 <br>
 
-![Followers](https://img.shields.io/github/followers/zhameersheraz?style=flat-square&color=58A6FF&labelColor=1C2128&logo=github)
-![Profile Views](https://komarev.com/ghpvc/?username=zhameersheraz&style=flat-square&color=58A6FF&label=Profile+Views)
+![Followers](https://img.shields.io/github/followers/zhameersheraz?style=flat-square&color=20C997&labelColor=1C2128&logo=github)
+![Profile Views](https://komarev.com/ghpvc/?username=zhameersheraz&style=flat-square&color=20C997&label=Profile+Views)
 
 </div>
 
@@ -54,25 +54,11 @@
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=zhameersheraz&show_icons=true&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF&text_color=C9D1D9" width="49%" />
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=zhameersheraz&theme=github-dark-blue&hide_border=true&background=0D1117&ring=58A6FF&fire=58A6FF&currStreakLabel=58A6FF" width="49%" />
+<img src="https://github-readme-stats.vercel.app/api?username=zhameersheraz&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=20C997&icon_color=20C997&text_color=C9D1D9" width="49%" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=zhameersheraz&theme=radical&hide_border=true&background=0D1117&ring=20C997&fire=20C997&currStreakLabel=20C997" width="49%" />
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=zhameersheraz&layout=compact&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9" width="49%" />
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=zhameersheraz&custom_title=Contribution%20Graph&bg_color=0D1117&color=58A6FF&line=58A6FF&point=FFFFFF&area_color=0D1117&area=true&hide_border=true" width="49%" />
-
-</div>
-
----
-
-## 🎯 FOCUS AREAS
-
-<div align="center">
-
-| 🌐 Web Security | 🔒 Network Security | 💻 System Security | 🏆 CTF Competitions |
-|:---:|:---:|:---:|:---:|
-| SQL Injection | Packet Analysis | Privilege Escalation | Forensics |
-| XSS & CSRF | Intrusion Detection | Binary Exploitation | Cryptography |
-| Auth Bypass | Protocol Vulnerabilities | Reverse Engineering | Web Exploitation |
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=zhameersheraz&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=20C997&text_color=C9D1D9" width="49%" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=zhameersheraz&custom_title=Contribution%20Graph&bg_color=0D1117&color=20C997&line=20C997&point=FFFFFF&area_color=0D1117&area=true&hide_border=true" width="49%" />
 
 </div>
 
@@ -82,8 +68,9 @@
 
 <div align="center">
 
-[![CTF Writeups](https://img.shields.io/badge/CTF_Writeups-View_Repository-58A6FF?style=for-the-badge&logo=github&logoColor=white)](https://github.com/zhameersheraz/CTF-Writeups)
-[![Security Tools](https://img.shields.io/badge/Security_Tools-Coming_Soon-6E7681?style=for-the-badge&logo=github&logoColor=white)](#)
+[![CTF Writeups](https://img.shields.io/badge/📚_CTF_Writeups-View_Repository-20C997?style=for-the-badge&logo=github&logoColor=white)](https://github.com/zhameersheraz/CTF-Writeups)
+[![All Repositories](https://img.shields.io/badge/📂_View_All-Repositories-20C997?style=for-the-badge&logo=github&logoColor=white)](https://github.com/zhameersheraz?tab=repositories)
+[![Security Tools](https://img.shields.io/badge/🔧_Security_Tools-Coming_Soon-6E7681?style=for-the-badge&logo=github&logoColor=white)](#)
 
 </div>
 
@@ -94,9 +81,9 @@
 <div align="center">
 
 [![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://facebook.com/zhameersheraz)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](#)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:zhameersheraz@email.com)
-[![Discord](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](#)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/zhameersheraz/)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:zhameersheraztampugao@gmail.com)
+[![Discord](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/zhameersheraz)
 
 </div>
 
@@ -104,10 +91,10 @@
 
 <div align="center">
 
-**💡 "Security is not a product, but a process."**
+💡 **"Security is not a product, but a process."**
 
 <br>
 
-![Wave](https://capsule-render.vercel.app/api?type=waving&color=0:58A6FF,100:1F6FEB&height=120&section=footer)
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:20C997,50:17A2B8,100:6C63FF&height=200&section=footer&text=Thanks%20for%20visiting!&fontSize=40&fontColor=20C997&animation=twinkling&fontAlignY=35" width="100%"/>
 
 </div>
