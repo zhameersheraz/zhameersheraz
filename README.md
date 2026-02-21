@@ -2,12 +2,12 @@
 
 # 🔐 ZHAMEER SHERAZ TAMPUGAO
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Security+Researcher+%7C+Developer;Cybersecurity+Enthusiast;Ethical+Hacker+in+Training;CTF+Player+%26+Bug+Hunter" alt="Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=00DC82&center=true&vCenter=true&width=600&lines=Security+Researcher+%7C+Developer;Cybersecurity+Enthusiast;Ethical+Hacker+in+Training;CTF+Player+%26+Bug+Hunter" alt="Typing SVG" />
 
 <br>
 
-![Followers](https://img.shields.io/github/followers/zhameersheraz?style=flat-square&color=58A6FF&labelColor=1C2128&logo=github)
-![Profile Views](https://komarev.com/ghpvc/?username=zhameersheraz&style=flat-square&color=58A6FF&label=Profile+Views)
+![Followers](https://img.shields.io/github/followers/zhameersheraz?style=flat-square&color=00DC82&labelColor=1C2128&logo=github)
+![Profile Views](https://komarev.com/ghpvc/?username=zhameersheraz&style=flat-square&color=00DC82&label=Profile+Views)
 
 </div>
 
@@ -54,11 +54,11 @@
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=zhameersheraz&show_icons=true&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF&text_color=C9D1D9" width="49%" />
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=zhameersheraz&theme=github-dark-blue&hide_border=true&background=0D1117&ring=58A6FF&fire=58A6FF&currStreakLabel=58A6FF" width="49%" />
+<img src="https://github-readme-stats.vercel.app/api?username=zhameersheraz&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=00DC82&icon_color=00DC82&text_color=C9D1D9" width="49%" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=zhameersheraz&theme=radical&hide_border=true&background=0D1117&ring=00DC82&fire=00DC82&currStreakLabel=00DC82" width="49%" />
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=zhameersheraz&layout=compact&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9" width="49%" />
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=zhameersheraz&custom_title=Contribution%20Graph&bg_color=0D1117&color=58A6FF&line=58A6FF&point=FFFFFF&area_color=0D1117&area=true&hide_border=true" width="49%" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=zhameersheraz&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=00DC82&text_color=C9D1D9" width="49%" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=zhameersheraz&custom_title=Contribution%20Graph&bg_color=0D1117&color=00DC82&line=00DC82&point=FFFFFF&area_color=0D1117&area=true&hide_border=true" width="49%" />
 
 </div>
 
@@ -82,7 +82,7 @@
 
 <div align="center">
 
-[![CTF Writeups](https://img.shields.io/badge/CTF_Writeups-View_Repository-58A6FF?style=for-the-badge&logo=github&logoColor=white)](https://github.com/zhameersheraz/CTF-Writeups)
+[![CTF Writeups](https://img.shields.io/badge/CTF_Writeups-View_Repository-00DC82?style=for-the-badge&logo=github&logoColor=white)](https://github.com/zhameersheraz/CTF-Writeups)
 [![Security Tools](https://img.shields.io/badge/Security_Tools-Coming_Soon-6E7681?style=for-the-badge&logo=github&logoColor=white)](#)
 
 </div>
@@ -108,6 +108,8 @@
 
 <br>
 
-![Wave](https://capsule-render.vercel.app/api?type=waving&color=0:58A6FF,100:1F6FEB&height=120&section=footer)
+### Thanks for visiting! 👋
+
+![Wave](https://capsule-render.vercel.app/api?type=waving&color=0:00DC82,100:00FFA3&height=120&section=footer)
 
 </div>
