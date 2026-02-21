@@ -93,10 +93,12 @@
 
 **💡 "Security is not a product, but a process."**
 
+<br><br>
+
+# Thanks for visiting! 👋
+
 <br>
 
-### Thanks for visiting! 👋
-
-![Wave](https://capsule-render.vercel.app/api?type=waving&color=0:20C997,100:17A589&height=120&section=footer)
+![Wave](https://capsule-render.vercel.app/api?type=waving&color=0:20C997,100:6366F1&height=150&section=footer)
 
 </div>
