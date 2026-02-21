@@ -2,12 +2,12 @@
 
 # 🔐 ZHAMEER SHERAZ TAMPUGAO
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&lines=Security+Researcher+%7C+Developer;Cybersecurity+Enthusiast;Ethical+Hacker+in+Training;CTF+Player+%26+Bug+Hunter" alt="Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&lines=Security+Researcher+%7C+Developer;Cybersecurity+Enthusiast;Offensive+Security+Learner;CTF+Competitor" alt="Typing SVG" />
 
 <br>
 
-![Followers](https://img.shields.io/github/followers/zhameersheraz?style=flat-square&color=00D9FF&labelColor=1C2128&logo=github)
-![Repositories](https://img.shields.io/badge/Repositories-20-00D9FF?style=flat-square&labelColor=1C2128)
+![Followers](https://img.shields.io/github/followers/zhameersheraz?style=flat-square&color=20b4cf&labelColor=1C2128&logo=github)
+![Repositories](https://img.shields.io/badge/Repositories-20-20b4cf?style=flat-square&labelColor=1C2128)
 
 </div>
 
@@ -54,11 +54,11 @@
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=zhameersheraz&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=00D9FF&text_color=C9D1D9" width="49%" />
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=zhameersheraz&theme=radical&hide_border=true&background=0D1117&ring=00D9FF&fire=00D9FF&currStreakLabel=00D9FF" width="49%" />
+<img src="https://github-readme-stats.vercel.app/api?username=zhameersheraz&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=00D9FF&text_color=C9D1D9&ring_color=00D9FF" width="48%" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=zhameersheraz&theme=tokyonight&hide_border=true&background=0D1117&ring=00D9FF&fire=00D9FF&currStreakLabel=00D9FF&sideLabels=C9D1D9&dates=8B949E" width="48%" />
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=zhameersheraz&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=00D9FF&text_color=C9D1D9" width="49%" />
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=zhameersheraz&custom_title=Contribution%20Graph&bg_color=0D1117&color=00D9FF&line=00D9FF&point=FFFFFF&area_color=0D1117&area=true&hide_border=true" width="49%" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=zhameersheraz&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&text_color=C9D1D9" width="48%" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=zhameersheraz&custom_title=Contribution%20Graph&bg_color=0D1117&color=00D9FF&line=00D9FF&point=FFFFFF&area_color=0D1117&area=true&hide_border=true&height=300" width="48%" />
 
 </div>
 
@@ -68,8 +68,8 @@
 
 <div align="center">
 
-[![CTF Writeups](https://img.shields.io/badge/📚_CTF_Writeups-View_Repository-00D9FF?style=for-the-badge&logo=github&logoColor=white)](https://github.com/zhameersheraz/CTF-Writeups)
-[![All Repositories](https://img.shields.io/badge/📂_View_All-Repositories-00D9FF?style=for-the-badge&logo=github&logoColor=white)](https://github.com/zhameersheraz?tab=repositories)
+[![CTF Writeups](https://img.shields.io/badge/📚_CTF_Writeups-View_Repository-20b4cf?style=for-the-badge&logo=github&logoColor=white)](https://github.com/zhameersheraz/CTF-Writeups)
+[![All Repositories](https://img.shields.io/badge/📂_View_All-Repositories-20b4cf?style=for-the-badge&logo=github&logoColor=white)](https://github.com/zhameersheraz?tab=repositories)
 [![Security Tools](https://img.shields.io/badge/🔧_Security_Tools-Coming_Soon-6E7681?style=for-the-badge&logo=github&logoColor=white)](#)
 
 </div>
@@ -91,10 +91,8 @@
 
 <div align="center">
 
-💡 **"Security is not a product, but a process."**
+### 💡 "Security is not a product, but a process."
 
-<br>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00D9FF,50:17A2B8,100:6C63FF&height=200&section=footer&text=Thanks%20for%20visiting!&fontSize=40&fontColor=00D9FF&animation=twinkling&fontAlignY=35" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,3,4,6&height=100&section=footer&text=Thanks%20for%20visiting!&fontSize=30&fontColor=00D9FF&animation=twinkling" width="100%"/>
 
 </div>
