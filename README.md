@@ -34,6 +34,8 @@
 ### Languages
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
 ### Security Tools
 ![Kali Linux](https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kali-linux&logoColor=white)
@@ -52,6 +54,8 @@
 <div align="center">
 
 <img src="https://streak-stats.demolab.com/?user=zhameersheraz&theme=radical&hide_border=true&background=0D1117&ring=00D9FF&fire=00D9FF&currStreakLabel=00D9FF&date_format=j%20M%5B%2C%20Y%5D" alt="GitHub Streak" />
+
+<img src="https://github-profile-trophy.vercel.app/?username=zhameersheraz&theme=radical&no-frame=true&no-bg=true&column=4&margin-w=10" alt="GitHub Trophies" />
 
 </div>
 
