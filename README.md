@@ -41,10 +41,7 @@
 ![Burp Suite](https://img.shields.io/badge/Burp_Suite-FF6633?style=for-the-badge&logo=burp-suite&logoColor=white)
 ![Nmap](https://img.shields.io/badge/Nmap-0E83CD?style=for-the-badge&logo=nmap&logoColor=white)
 
-### Development Tools
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+
 
 </div>
 
@@ -70,7 +67,6 @@
 
 [![CTF Writeups](https://img.shields.io/badge/📚_CTF_Writeups-View_Repository-20b4cf?style=for-the-badge&logo=github&logoColor=white)](https://github.com/zhameersheraz/CTF-Writeups)
 [![All Repositories](https://img.shields.io/badge/📂_View_All-Repositories-20b4cf?style=for-the-badge&logo=github&logoColor=white)](https://github.com/zhameersheraz?tab=repositories)
-[![Security Tools](https://img.shields.io/badge/🔧_Security_Tools-Coming_Soon-6E7681?style=for-the-badge&logo=github&logoColor=white)](#)
 
 </div>
 
@@ -83,7 +79,6 @@
 [![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://facebook.com/zhameersheraz)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/zhameersheraz/)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:zhameersheraztampugao@gmail.com)
-[![Discord](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/zhameersheraz)
 
 </div>
 
