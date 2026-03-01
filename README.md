@@ -55,8 +55,6 @@
 
 <img src="https://streak-stats.demolab.com/?user=zhameersheraz&theme=radical&hide_border=true&background=0D1117&ring=00D9FF&fire=00D9FF&currStreakLabel=00D9FF&date_format=j%20M%5B%2C%20Y%5D" alt="GitHub Streak" />
 
-<img src="https://github-profile-trophy.vercel.app/?username=zhameersheraz&theme=radical&no-frame=true&no-bg=true&column=4&margin-w=10" alt="GitHub Trophies" />
-
 </div>
 
 ---
