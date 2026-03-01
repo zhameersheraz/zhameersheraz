@@ -53,7 +53,7 @@
 
 <div align="center">
 
-<img src="https://streak-stats.demolab.com/?user=zhameersheraz&theme=tokyonight&hide_border=true&background=0D1117&date_format=j%20M%5B%2C%20Y%5D" alt="GitHub Streak" />
+<img src="https://streak-stats.demolab.com/?user=zhameersheraz&hide_border=true&background=0D1117&ring=00D9FF&fire=00D9FF&currStreakLabel=00D9FF&currStreakNum=00D9FF&sideNums=00D9FF&sideLabels=9B59B6&dates=9B59B6&date_format=j%20M%5B%2C%20Y%5D" alt="GitHub Streak" />
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=zhameersheraz&bg_color=0D1117&color=00D9FF&line=00D9FF&point=ffffff&area=true&hide_border=true" alt="Contribution Graph" />
 
