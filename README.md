@@ -6,8 +6,7 @@
 
 <br>
 
-![Followers](https://img.shields.io/github/followers/zhameersheraz?style=flat-square&color=20b4cf&labelColor=1C2128&logo=github)
-![Repositories](https://img.shields.io/badge/Repositories-20-20b4cf?style=flat-square&labelColor=1C2128)
+![Repositories](https://img.shields.io/badge/dynamic/json?url=https://api.github.com/users/zhameersheraz&query=$.public_repos&label=Repositories&color=20b4cf&style=flat-square&labelColor=1C2128&logo=github)
 
 </div>
 
@@ -22,8 +21,6 @@
 - Exploring software vulnerabilities and exploits
 - Threat analysis and mitigation strategies
 - CTF challenges and detailed writeups
-
-**📜 Certification Goals:** CEH | OSCP | Security+ | eJPT
 
 ---
 
@@ -43,8 +40,6 @@
 ![Burp Suite](https://img.shields.io/badge/Burp_Suite-FF6633?style=for-the-badge&logo=burp-suite&logoColor=white)
 ![Nmap](https://img.shields.io/badge/Nmap-0E83CD?style=for-the-badge&logo=nmap&logoColor=white)
 
-
-
 </div>
 
 ---
@@ -56,17 +51,6 @@
 <img src="https://streak-stats.demolab.com/?user=zhameersheraz&hide_border=true&background=0D1117&ring=00D9FF&fire=00D9FF&currStreakLabel=00D9FF&currStreakNum=C084FC&sideNums=C084FC&sideLabels=C9D1D9&dates=C9D1D9&date_format=j%20M%5B%2C%20Y%5D" alt="GitHub Streak" />
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=zhameersheraz&bg_color=0D1117&color=00D9FF&line=00D9FF&point=ffffff&area=true&hide_border=true" alt="Contribution Graph" />
-
-</div>
-
----
-
-## 🏆 PROJECTS
-
-<div align="center">
-
-[![CTF Writeups](https://img.shields.io/badge/📚_CTF_Writeups-View_Repository-20b4cf?style=for-the-badge&logo=github&logoColor=white)](https://github.com/zhameersheraz/CTF-Writeups)
-[![All Repositories](https://img.shields.io/badge/📂_View_All-Repositories-20b4cf?style=for-the-badge&logo=github&logoColor=white)](https://github.com/zhameersheraz?tab=repositories)
 
 </div>
 
