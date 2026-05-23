@@ -10,9 +10,9 @@
 
 ---
 
-## <img src="https://api.iconify.design/lucide:user.svg" width="18" height="18" style="vertical-align:middle"/> About Me
+## <img src="https://api.iconify.design/lucide:user.svg?color=%23aaaaaa" width="18" height="18" style="vertical-align:middle"/> About Me
 
-I'm a Computer Science student with a growing interest in security. I spend a lot of my time trying to understand how systems and software work — and occasionally, how they can fail. I'm still learning, and I find that hands-on practice through CTF challenges helps me get better faster.
+I'm a Computer Science student with a growing interest in security. I spend a lot of my time trying to understand how systems and software work, and sometimes how they can fail. I'm still learning, and I find that hands-on practice through CTF challenges helps me get better faster.
 
 **Things I'm currently working on:**
 - Getting more comfortable with the basics of penetration testing
@@ -21,7 +21,7 @@ I'm a Computer Science student with a growing interest in security. I spend a lo
 
 ---
 
-## <img src="https://api.iconify.design/lucide:wrench.svg" width="18" height="18" style="vertical-align:middle"/> Tech Stack
+## <img src="https://api.iconify.design/lucide:wrench.svg?color=%23aaaaaa" width="18" height="18" style="vertical-align:middle"/> Tech Stack
 
 <div align="center">
 
@@ -41,16 +41,19 @@ I'm a Computer Science student with a growing interest in security. I spend a lo
 
 ---
 
-## <img src="https://api.iconify.design/lucide:bar-chart-2.svg" width="18" height="18" style="vertical-align:middle"/> GitHub Stats
+## <img src="https://api.iconify.design/lucide:bar-chart-2.svg?color=%23aaaaaa" width="18" height="18" style="vertical-align:middle"/> GitHub Stats
 
 <div align="center">
+
 <img src="https://streak-stats.demolab.com/?user=zhameersheraz&hide_border=true&background=0D1117&ring=00D9FF&fire=00D9FF&currStreakLabel=00D9FF&currStreakNum=C084FC&sideNums=C084FC&sideLabels=C9D1D9&dates=C9D1D9&date_format=j%20M%5B%2C%20Y%5D&timezone=Asia%2FManila" alt="GitHub Streak" />
+
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=zhameersheraz&bg_color=0D1117&color=00D9FF&line=00D9FF&point=ffffff&area=true&hide_border=true" alt="Contribution Graph" />
+
 </div>
 
 ---
 
-## <img src="https://api.iconify.design/lucide:mail.svg" width="18" height="18" style="vertical-align:middle"/> Connect
+## <img src="https://api.iconify.design/lucide:mail.svg?color=%23aaaaaa" width="18" height="18" style="vertical-align:middle"/> Connect
 
 <div align="center">
 
