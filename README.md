@@ -27,11 +27,17 @@ I'm a Computer Science student with a growing interest in security. I spend a lo
 
 **Languages**
 
-[![Languages](https://skillicons.dev/icons?i=java,python,html,css)](https://skillicons.dev)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white&labelColor=1C2128)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white&labelColor=1C2128)
+![HTML](https://img.shields.io/badge/HTML-E34F26?style=flat-square&logo=html5&logoColor=white&labelColor=1C2128)
+![CSS](https://img.shields.io/badge/CSS-1572B6?style=flat-square&logo=css3&logoColor=white&labelColor=1C2128)
 
-**Tools & Environment**
+**Security**
 
-[![Tools](https://skillicons.dev/icons?i=git,vscode,linux,kali)](https://skillicons.dev)
+![Kali Linux](https://img.shields.io/badge/Kali_Linux-557C94?style=flat-square&logo=kali-linux&logoColor=white&labelColor=1C2128)
+![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=flat-square&logo=wireshark&logoColor=white&labelColor=1C2128)
+![Burp Suite](https://img.shields.io/badge/Burp_Suite-FF6633?style=flat-square&logo=burp-suite&logoColor=white&labelColor=1C2128)
+![Nmap](https://img.shields.io/badge/Nmap-0E83CD?style=flat-square&logo=nmap&logoColor=white&labelColor=1C2128)
 
 </div>
 
