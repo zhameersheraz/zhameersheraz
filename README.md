@@ -53,9 +53,9 @@ I'm a Computer Science student with a growing interest in security. I spend a lo
 
 <div align="center">
 
-[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=flat-square&logo=facebook&logoColor=white&labelColor=1C2128)](https://facebook.com/zhameersheraz)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white&labelColor=1C2128)](https://www.linkedin.com/in/zhameersheraz/)
-[![Email](https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white&labelColor=1C2128)](mailto:zhameersheraztampugao@gmail.com)
+[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=flat-square&logo=Facebook&logoColor=white&labelColor=1C2128)](https://facebook.com/zhameersheraz)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=LinkedIn&logoColor=white&labelColor=1C2128)](https://www.linkedin.com/in/zhameersheraz/)
+[![Email](https://img.shields.io/badge/Email-D14836?style=flat-square&logo=Gmail&logoColor=white&labelColor=1C2128)](mailto:zhameersheraztampugao@gmail.com)
 
 </div>
 
