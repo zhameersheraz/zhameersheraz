@@ -67,6 +67,4 @@ I'm a Computer Science student with a growing interest in security. I spend a lo
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,3,4,6&height=100&section=footer&text=Thanks+for+stopping+by&fontSize=28&fontColor=00D9FF&animation=twinkling" width="100%"/>
 
-
 </div>
-
