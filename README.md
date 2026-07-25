@@ -2,7 +2,7 @@
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=00D9FF&center=true&vCenter=true&width=500&lines=CS+Student+%7C+Security+Learner;Exploring+Cybersecurity;Occasional+CTF+Participant" alt="Typing SVG" />
 
-# Zhameer Sheraz Tampugao
+
 
 ![Repositories](https://img.shields.io/badge/dynamic/json?url=https://api.github.com/users/zhameersheraz&query=$.public_repos&label=Repositories&color=20b4cf&style=flat-square&labelColor=1C2128&logo=github)
 
