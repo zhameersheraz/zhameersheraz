@@ -24,6 +24,7 @@ More on [my portfolio](https://zhameersheraz-ctf-portfolio.vercel.app/about).
 <img src="https://img.shields.io/badge/-Python-000000?style=for-the-badge&logo=python&logoColor=white">
 <img src="https://img.shields.io/badge/-HTML5-000000?style=for-the-badge&logo=html5&logoColor=white">
 <img src="https://img.shields.io/badge/-CSS3-000000?style=for-the-badge&logo=css3&logoColor=white">
+
 **Tools & Environment**
 <img src="https://img.shields.io/badge/-Git-000000?style=for-the-badge&logo=git&logoColor=white">
 <img src="https://img.shields.io/badge/-VSCode-000000?style=for-the-badge&logo=visualstudiocode&logoColor=white">
