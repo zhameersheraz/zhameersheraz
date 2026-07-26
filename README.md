@@ -4,7 +4,7 @@
 
 
 
-![Repositories](https://img.shields.io/badge/dynamic/json?url=https://api.github.com/users/zhameersheraz&query=$.public_repos&label=Repositories&color=00D9FF&style=flat-square&labelColor=21262D&logo=github)
+![Repositories](https://img.shields.io/badge/dynamic/json?url=https://api.github.com/users/zhameersheraz&query=$.public_repos&label=Repositories&color=20b4cf&style=flat-square&labelColor=1C2128&logo=github)
 
 </div>
 
@@ -22,17 +22,17 @@ More on [my portfolio](https://zhameersheraz-ctf-portfolio.vercel.app/about).
 
 **Languages**
 
-<img src="https://img.shields.io/badge/-Java-0D1117?style=for-the-badge&logo=openjdk&logoColor=00D9FF">
-<img src="https://img.shields.io/badge/-Python-0D1117?style=for-the-badge&logo=python&logoColor=00D9FF">
-<img src="https://img.shields.io/badge/-HTML5-0D1117?style=for-the-badge&logo=html5&logoColor=00D9FF">
-<img src="https://img.shields.io/badge/-CSS3-0D1117?style=for-the-badge&logo=css3&logoColor=00D9FF">
+<img src="https://img.shields.io/badge/-Java-000000?style=for-the-badge&logo=openjdk&logoColor=white">
+<img src="https://img.shields.io/badge/-Python-000000?style=for-the-badge&logo=python&logoColor=white">
+<img src="https://img.shields.io/badge/-HTML5-000000?style=for-the-badge&logo=html5&logoColor=white">
+<img src="https://img.shields.io/badge/-CSS3-000000?style=for-the-badge&logo=css3&logoColor=white">
 
 **Tools & Environment**
 
-<img src="https://img.shields.io/badge/-Git-0D1117?style=for-the-badge&logo=git&logoColor=00D9FF">
-<img src="https://img.shields.io/badge/-VSCode-0D1117?style=for-the-badge&logo=visualstudiocode&logoColor=00D9FF">
-<img src="https://img.shields.io/badge/-Linux-0D1117?style=for-the-badge&logo=linux&logoColor=00D9FF">
-<img src="https://img.shields.io/badge/-Kali-0D1117?style=for-the-badge&logo=kalilinux&logoColor=00D9FF">
+<img src="https://img.shields.io/badge/-Git-000000?style=for-the-badge&logo=git&logoColor=white">
+<img src="https://img.shields.io/badge/-VSCode-000000?style=for-the-badge&logo=visualstudiocode&logoColor=white">
+<img src="https://img.shields.io/badge/-Linux-000000?style=for-the-badge&logo=linux&logoColor=white">
+<img src="https://img.shields.io/badge/-Kali-000000?style=for-the-badge&logo=kalilinux&logoColor=white">
 
 </div>
 
@@ -42,9 +42,9 @@ More on [my portfolio](https://zhameersheraz-ctf-portfolio.vercel.app/about).
 
 <div align="center">
 
-<img src="https://streak-stats.demolab.com/?user=zhameersheraz&hide_border=true&background=0D1117&ring=00D9FF&fire=00D9FF&currStreakLabel=00D9FF&currStreakNum=00D9FF&sideNums=FFFFFF&sideLabels=AAAAAA&dates=AAAAAA&date_format=j%20M%5B%2C%20Y%5D&timezone=Asia%2FManila" alt="GitHub Streak" />
+<img src="https://streak-stats.demolab.com/?user=zhameersheraz&hide_border=true&background=0D1117&ring=00D9FF&fire=00D9FF&currStreakLabel=00D9FF&currStreakNum=C084FC&sideNums=C084FC&sideLabels=C9D1D9&dates=C9D1D9&date_format=j%20M%5B%2C%20Y%5D&timezone=Asia%2FManila" alt="GitHub Streak" />
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=zhameersheraz&bg_color=0D1117&color=00D9FF&line=00D9FF&point=FFFFFF&area=true&hide_border=true" alt="Contribution Graph" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=zhameersheraz&bg_color=0D1117&color=00D9FF&line=00D9FF&point=ffffff&area=true&hide_border=true" alt="Contribution Graph" />
 
 </div>
 
@@ -54,9 +54,9 @@ More on [my portfolio](https://zhameersheraz-ctf-portfolio.vercel.app/about).
 
 <div align="center">
 
-[![Facebook](https://img.shields.io/badge/Facebook-0D1117?style=flat-square&logo=Facebook&logoColor=00D9FF&labelColor=21262D)](https://facebook.com/zhameersheraz)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0D1117?style=flat-square&logo=LinkedIn&logoColor=00D9FF&labelColor=21262D)](https://www.linkedin.com/in/zhameersheraz/)
-[![Email](https://img.shields.io/badge/Email-0D1117?style=flat-square&logo=Gmail&logoColor=00D9FF&labelColor=21262D)](mailto:zhameersheraztampugao@gmail.com)
+[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=flat-square&logo=Facebook&logoColor=white&labelColor=1C2128)](https://facebook.com/zhameersheraz)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=LinkedIn&logoColor=white&labelColor=1C2128)](https://www.linkedin.com/in/zhameersheraz/)
+[![Email](https://img.shields.io/badge/Email-D14836?style=flat-square&logo=Gmail&logoColor=white&labelColor=1C2128)](mailto:zhameersheraztampugao@gmail.com)
 
 </div>
 
@@ -66,7 +66,7 @@ More on [my portfolio](https://zhameersheraz-ctf-portfolio.vercel.app/about).
 
 *"The more I learn, the more I realize how much I don't know yet."*
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00D9FF,100:0D1117&height=100&section=footer&text=Thanks+for+stopping+by&fontSize=28&fontColor=00D9FF&animation=twinkling" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,3,4,6&height=100&section=footer&text=Thanks+for+stopping+by&fontSize=28&fontColor=00D9FF&animation=twinkling" width="100%"/>
 
 
 
