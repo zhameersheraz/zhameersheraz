@@ -21,11 +21,11 @@ More on [my portfolio](https://zhameersheraz-ctf-portfolio.vercel.app/about).
 
 **Languages**
 
-[![Languages](https://skillicons.dev/icons?i=java,python,html,css)](https://skillicons.dev)
+[![Languages](https://skillicons.dev/icons?i=java,python,html,css&theme=dark)](https://skillicons.dev)
 
 **Tools & Environment**
 
-[![Tools](https://skillicons.dev/icons?i=git,vscode,linux,kali)](https://skillicons.dev)
+[![Tools](https://skillicons.dev/icons?i=git,vscode,linux,kali&theme=dark)](https://skillicons.dev)
 
 </div>
 
