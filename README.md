@@ -11,6 +11,7 @@
 ---
 
 ## <img src="https://api.iconify.design/lucide:user.svg?color=%23aaaaaa" width="18" height="18" style="vertical-align:middle"/> About
+
 More on [my portfolio](https://zhameersheraz-ctf-portfolio.vercel.app/about).
 
 ---
@@ -19,13 +20,19 @@ More on [my portfolio](https://zhameersheraz-ctf-portfolio.vercel.app/about).
 
 <div align="center">
 
-*Languages*
+**Languages**
 
-[![Languages](https://skillicons.dev/icons?i=java,python,html,css)](https://skillicons.dev)
+<img src="https://img.shields.io/badge/-Java-000000?style=for-the-badge&logo=openjdk&logoColor=white">
+<img src="https://img.shields.io/badge/-Python-000000?style=for-the-badge&logo=python&logoColor=white">
+<img src="https://img.shields.io/badge/-HTML5-000000?style=for-the-badge&logo=html5&logoColor=white">
+<img src="https://img.shields.io/badge/-CSS3-000000?style=for-the-badge&logo=css3&logoColor=white">
 
-*Tools & Environment*
+**Tools & Environment**
 
-[![Tools](https://skillicons.dev/icons?i=git,vscode,linux,kali)](https://skillicons.dev)
+<img src="https://img.shields.io/badge/-Git-000000?style=for-the-badge&logo=git&logoColor=white">
+<img src="https://img.shields.io/badge/-VSCode-000000?style=for-the-badge&logo=visualstudiocode&logoColor=white">
+<img src="https://img.shields.io/badge/-Linux-000000?style=for-the-badge&logo=linux&logoColor=white">
+<img src="https://img.shields.io/badge/-Kali-000000?style=for-the-badge&logo=kalilinux&logoColor=white">
 
 </div>
 
@@ -57,17 +64,18 @@ More on [my portfolio](https://zhameersheraz-ctf-portfolio.vercel.app/about).
 
 <div align="center">
 
-"The more I learn, the more I realize how much I don't know yet."
+*"The more I learn, the more I realize how much I don't know yet."*
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,3,4,6&height=100&section=footer&text=Thanks+for+stopping+by&fontSize=28&fontColor=00D9FF&animation=twinkling" width="100%"/>
 
 
 
 ## Certifications
- [Ethical Hacker - Cisco Networking Academy](https://www.credly.com/badges/8c8562b2-8d2e-4dac-a4c5-2aa0961d7cf4) — Jul 2026
+
+[Ethical Hacker - Cisco Networking Academy](https://www.credly.com/badges/8c8562b2-8d2e-4dac-a4c5-2aa0961d7cf4) — Jul 2026
 
 
 
 
 
-</div>\
+</div>
