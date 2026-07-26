@@ -69,7 +69,8 @@ I'm a Computer Science student with a growing interest in security. I spend a lo
 
 
 
-
+## Certifications
+- [Ethical Hacker - Cisco Networking Academy](https://www.credly.com/badges/8c8562b2-8d2e-4dac-a4c5-2aa0961d7cf4) — Jul 2026
 
 
 
