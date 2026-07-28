@@ -73,6 +73,7 @@ More on [my portfolio](https://zhameersheraz-ctf-portfolio.vercel.app/about).
 ## Certifications
 
 [Ethical Hacker - Cisco Networking Academy](https://www.credly.com/badges/8c8562b2-8d2e-4dac-a4c5-2aa0961d7cf4) — Jul 2026
+[Introduction to Cybersecurity - Cisco Networking Academy](https://www.credly.com/badges/e5dbf342-8980-467a-b74a-46c74104028b) — Jul 2026
 
 
 
