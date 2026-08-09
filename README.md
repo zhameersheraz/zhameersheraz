@@ -10,12 +10,6 @@
 
 ---
 
-## <img src="https://api.iconify.design/lucide:user.svg?color=%23aaaaaa" width="18" height="18" style="vertical-align:middle"/> About
-
-More on [my portfolio](https://zhameersheraz-ctf-portfolio.vercel.app/about).
-
----
-
 ## <img src="https://api.iconify.design/lucide:wrench.svg?color=%23aaaaaa" width="18" height="18" style="vertical-align:middle"/> Tech Stack
 
 <table align="center">
@@ -33,6 +27,26 @@ More on [my portfolio](https://zhameersheraz-ctf-portfolio.vercel.app/about).
       <br><b>Python</b>
     </td>
     <td align="center" width="100">
+      <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
+        <img src="https://skillicons.dev/icons?i=javascript" width="48" height="48" alt="JavaScript" />
+      </a>
+      <br><b>JavaScript</b>
+    </td>
+    <td align="center" width="100">
+      <a href="https://www.typescriptlang.org" target="_blank" rel="noreferrer">
+        <img src="https://skillicons.dev/icons?i=typescript" width="48" height="48" alt="TypeScript" />
+      </a>
+      <br><b>TypeScript</b>
+    </td>
+    <td align="center" width="100">
+      <a href="https://www.php.net" target="_blank" rel="noreferrer">
+        <img src="https://skillicons.dev/icons?i=php" width="48" height="48" alt="PHP" />
+      </a>
+      <br><b>PHP</b>
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="100">
       <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank" rel="noreferrer">
         <img src="https://skillicons.dev/icons?i=html" width="48" height="48" alt="HTML5" />
       </a>
@@ -44,20 +58,26 @@ More on [my portfolio](https://zhameersheraz-ctf-portfolio.vercel.app/about).
       </a>
       <br><b>CSS3</b>
     </td>
-  </tr>
-  <tr>
-    <td align="center" width="100">
-      <a href="https://git-scm.com" target="_blank" rel="noreferrer">
-        <img src="https://skillicons.dev/icons?i=git" width="48" height="48" alt="Git" />
-      </a>
-      <br><b>Git</b>
-    </td>
     <td align="center" width="100">
       <a href="https://code.visualstudio.com" target="_blank" rel="noreferrer">
-        <img src="https://skillicons.dev/icons?i=vscode" width="48" height="48" alt="VSCode" />
+        <img src="https://skillicons.dev/icons?i=vscode" width="48" height="48" alt="VS Code" />
       </a>
       <br><b>VS Code</b>
     </td>
+    <td align="center" width="100">
+      <a href="https://www.jetbrains.com/idea/" target="_blank" rel="noreferrer">
+        <img src="https://skillicons.dev/icons?i=intellij" width="48" height="48" alt="IntelliJ" />
+      </a>
+      <br><b>IntelliJ</b>
+    </td>
+    <td align="center" width="100">
+      <a href="https://developer.android.com/studio" target="_blank" rel="noreferrer">
+        <img src="https://skillicons.dev/icons?i=androidstudio" width="48" height="48" alt="Android Studio" />
+      </a>
+      <br><b>Android Studio</b>
+    </td>
+  </tr>
+  <tr>
     <td align="center" width="100">
       <a href="https://www.linux.org" target="_blank" rel="noreferrer">
         <img src="https://skillicons.dev/icons?i=linux" width="48" height="48" alt="Linux" />
@@ -69,6 +89,56 @@ More on [my portfolio](https://zhameersheraz-ctf-portfolio.vercel.app/about).
         <img src="https://skillicons.dev/icons?i=kali" width="48" height="48" alt="Kali" />
       </a>
       <br><b>Kali</b>
+    </td>
+    <td align="center" width="100">
+      <a href="https://ubuntu.com" target="_blank" rel="noreferrer">
+        <img src="https://skillicons.dev/icons?i=ubuntu" width="48" height="48" alt="Ubuntu" />
+      </a>
+      <br><b>Ubuntu</b>
+    </td>
+    <td align="center" width="100">
+      <a href="https://git-scm.com" target="_blank" rel="noreferrer">
+        <img src="https://skillicons.dev/icons?i=git" width="48" height="48" alt="Git" />
+      </a>
+      <br><b>Git</b>
+    </td>
+    <td align="center" width="100">
+      <a href="https://github.com" target="_blank" rel="noreferrer">
+        <img src="https://skillicons.dev/icons?i=github" width="48" height="48" alt="GitHub" />
+      </a>
+      <br><b>GitHub</b>
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="100">
+      <a href="https://nmap.org" target="_blank" rel="noreferrer">
+        <img src="https://skillicons.dev/icons?i=nmap" width="48" height="48" alt="Nmap" />
+      </a>
+      <br><b>Nmap</b>
+    </td>
+    <td align="center" width="100">
+      <a href="https://www.wireshark.org" target="_blank" rel="noreferrer">
+        <img src="https://skillicons.dev/icons?i=wireshark" width="48" height="48" alt="Wireshark" />
+      </a>
+      <br><b>Wireshark</b>
+    </td>
+    <td align="center" width="100">
+      <a href="https://ghidra-sre.org" target="_blank" rel="noreferrer">
+        <img src="https://skillicons.dev/icons?i=ghidra" width="48" height="48" alt="Ghidra" />
+      </a>
+      <br><b>Ghidra</b>
+    </td>
+    <td align="center" width="100">
+      <a href="https://portswigger.net/burp" target="_blank" rel="noreferrer">
+        <img src="https://skillicons.dev/icons?i=burpsuite" width="48" height="48" alt="Burp Suite" />
+      </a>
+      <br><b>Burp Suite</b>
+    </td>
+    <td align="center" width="100">
+      <a href="https://www.shodan.io" target="_blank" rel="noreferrer">
+        <img src="https://skillicons.dev/icons?i=shodan" width="48" height="48" alt="Shodan" />
+      </a>
+      <br><b>Shodan</b>
     </td>
   </tr>
 </table>
