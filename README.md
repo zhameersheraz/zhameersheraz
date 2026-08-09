@@ -118,7 +118,7 @@ More on [my portfolio](https://zhameersheraz-ctf-portfolio.vercel.app/about).
   <tr>
     <td align="center" width="100">
       <a href="https://nmap.org" target="_blank" rel="noreferrer">
-        <img src="https://api.iconify.design/simple-icons:nmap.svg" width="48" height="48" alt="Nmap" />
+        <img src="https://api.iconify.design/file-icons:nmap.svg" width="48" height="48" alt="Nmap" />
       </a>
       <br><b>Nmap</b>
     </td>
@@ -130,19 +130,19 @@ More on [my portfolio](https://zhameersheraz-ctf-portfolio.vercel.app/about).
     </td>
     <td align="center" width="100">
       <a href="https://ghidra-sre.org" target="_blank" rel="noreferrer">
-        <img src="https://api.iconify.design/logos:ghidra.svg" width="48" height="48" alt="Ghidra" />
+        <img src="https://api.iconify.design/devicon:ghidra.svg" width="48" height="48" alt="Ghidra" />
       </a>
       <br><b>Ghidra</b>
     </td>
     <td align="center" width="100">
       <a href="https://portswigger.net/burp" target="_blank" rel="noreferrer">
-        <img src="https://api.iconify.design/logos:burpsuite.svg" width="48" height="48" alt="Burp Suite" />
+        <img src="https://api.iconify.design/simple-icons:burpsuite.svg" width="48" height="48" alt="Burp Suite" />
       </a>
       <br><b>Burp Suite</b>
     </td>
     <td align="center" width="100">
       <a href="https://www.shodan.io" target="_blank" rel="noreferrer">
-        <img src="https://api.iconify.design/simple-icons:shodan.svg" width="48" height="48" alt="Shodan" />
+        <img src="https://api.iconify.design/selfhst:shodan.svg" width="48" height="48" alt="Shodan" />
       </a>
       <br><b>Shodan</b>
     </td>
