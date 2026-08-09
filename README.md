@@ -193,7 +193,7 @@ More on [my portfolio](https://zhameersheraz-ctf-portfolio.vercel.app/about).
   <tr>
     <td align="center">
       <a href="https://www.credly.com/badges/1a2a876f-c20f-46f4-a2bf-1646ea55f1dc" target="_blank" rel="noreferrer">
-        <img src="https://raw.githubusercontent.com/zhameersheraz/zhameersheraz/main/assets/ibm-ai-fundamentals.png" alt="AI Fundamentals - IBM SkillsBuild" width="160" />
+        <img src="https://raw.githubusercontent.com/zhameersheraz/zhameersheraz/main/assets/ibm-ai-fundamentals.png?v=2" alt="AI Fundamentals - IBM SkillsBuild" width="100" height="100" />
       </a>
     </td>
     <td align="center">
