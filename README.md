@@ -232,7 +232,7 @@ More on [my portfolio](https://zhameersheraz-ctf-portfolio.vercel.app/about).
         <b>Introduction to Modern AI</b>
       </a>
       <br>
-      <sub>Cisco Networking Academy · Jul 2026</sub>
+      <sub>Cisco Networking Academy · Aug 2026</sub>
     </td>
     <td align="center">
       <a href="https://www.credly.com/badges/e5dbf342-8980-467a-b74a-46c74104028b" target="_blank" rel="noreferrer">
