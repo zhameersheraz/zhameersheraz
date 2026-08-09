@@ -170,15 +170,15 @@ More on [my portfolio](https://zhameersheraz-ctf-portfolio.vercel.app/about).
 <div align="center">
 
 <a href="https://facebook.com/zhameersheraz" target="_blank" rel="noreferrer">
-  <img src="https://api.iconify.design/simple-icons:facebook.svg?color=%231877F2" width="36" height="36" alt="Facebook" />
+  <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook" />
 </a>
-&nbsp;&nbsp;&nbsp;&nbsp;
+&nbsp;
 <a href="https://www.linkedin.com/in/zhameersheraz/" target="_blank" rel="noreferrer">
-  <img src="https://api.iconify.design/simple-icons:linkedin.svg?color=%230077B5" width="36" height="36" alt="LinkedIn" />
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
 </a>
-&nbsp;&nbsp;&nbsp;&nbsp;
+&nbsp;
 <a href="mailto:zhameersheraztampugao@gmail.com">
-  <img src="https://api.iconify.design/simple-icons:gmail.svg?color=%23EA4335" width="36" height="36" alt="Email" />
+  <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
 </a>
 
 </div>
