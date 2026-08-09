@@ -12,7 +12,7 @@
 
 ## <img src="https://api.iconify.design/lucide:user.svg?color=%23aaaaaa" width="18" height="18" style="vertical-align:middle"/> About
 
-More on [my portfolio](https://zhameersheraz-ctf-portfolio.vercel.app/about).
+More on [my portfolio](https://zhameersheraz-portfolio.vercel.app/about).
 
 ---
 
