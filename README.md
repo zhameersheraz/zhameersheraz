@@ -170,15 +170,15 @@ More on [my portfolio](https://zhameersheraz-ctf-portfolio.vercel.app/about).
 <div align="center">
 
 <a href="https://facebook.com/zhameersheraz" target="_blank" rel="noreferrer">
-  <img src="https://api.iconify.design/logos:facebook.svg" width="48" height="48" alt="Facebook" />
+  <img src="https://api.iconify.design/simple-icons:facebook.svg?color=%231877F2" width="36" height="36" alt="Facebook" />
 </a>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+&nbsp;&nbsp;&nbsp;&nbsp;
 <a href="https://www.linkedin.com/in/zhameersheraz/" target="_blank" rel="noreferrer">
-  <img src="https://api.iconify.design/logos:linkedin-icon.svg" width="48" height="48" alt="LinkedIn" />
+  <img src="https://api.iconify.design/simple-icons:linkedin.svg?color=%230077B5" width="36" height="36" alt="LinkedIn" />
 </a>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+&nbsp;&nbsp;&nbsp;&nbsp;
 <a href="mailto:zhameersheraztampugao@gmail.com">
-  <img src="https://api.iconify.design/logos:google-gmail.svg" width="48" height="48" alt="Email" />
+  <img src="https://api.iconify.design/simple-icons:gmail.svg?color=%23EA4335" width="36" height="36" alt="Email" />
 </a>
 
 </div>
@@ -192,22 +192,34 @@ More on [my portfolio](https://zhameersheraz-ctf-portfolio.vercel.app/about).
 <table>
   <tr>
     <td align="center">
+      <a href="https://www.credly.com/badges/1a2a876f-c20f-46f4-a2bf-1646ea55f1dc" target="_blank" rel="noreferrer">
+        <img src="https://raw.githubusercontent.com/zhameersheraz/zhameersheraz/main/assets/ibm-ai-fundamentals.png" alt="AI Fundamentals - IBM SkillsBuild" width="160" />
+      </a>
+    </td>
+    <td align="center">
       <a href="https://www.credly.com/badges/8c8562b2-8d2e-4dac-a4c5-2aa0961d7cf4" target="_blank" rel="noreferrer">
-        <img src="https://images.credly.com/images/242902b5-f527-42ad-865e-977c9e1b5b58/linkedin_thumb_image.png" alt="Ethical Hacker - Cisco Networking Academy" width="180" />
+        <img src="https://images.credly.com/images/242902b5-f527-42ad-865e-977c9e1b5b58/linkedin_thumb_image.png" alt="Ethical Hacker - Cisco Networking Academy" width="160" />
       </a>
     </td>
     <td align="center">
       <a href="https://www.credly.com/badges/a3e8e7f1-a9a9-425d-8509-c1dac21a7ebf" target="_blank" rel="noreferrer">
-        <img src="https://images.credly.com/images/e2d12302-10f9-40d4-8ff1-066a7008b61d/linkedin_thumb_blob" alt="Introduction to Modern AI - Cisco Networking Academy" width="180" />
+        <img src="https://images.credly.com/images/e2d12302-10f9-40d4-8ff1-066a7008b61d/linkedin_thumb_blob" alt="Introduction to Modern AI - Cisco Networking Academy" width="160" />
       </a>
     </td>
     <td align="center">
       <a href="https://www.credly.com/badges/e5dbf342-8980-467a-b74a-46c74104028b" target="_blank" rel="noreferrer">
-        <img src="https://images.credly.com/images/af8c6b4e-fc31-47c4-8dcb-eb7a2065dc5b/linkedin_thumb_I2CS__1_.png" alt="Introduction to Cybersecurity - Cisco Networking Academy" width="180" />
+        <img src="https://images.credly.com/images/af8c6b4e-fc31-47c4-8dcb-eb7a2065dc5b/linkedin_thumb_I2CS__1_.png" alt="Introduction to Cybersecurity - Cisco Networking Academy" width="160" />
       </a>
     </td>
   </tr>
   <tr>
+    <td align="center">
+      <a href="https://www.credly.com/badges/1a2a876f-c20f-46f4-a2bf-1646ea55f1dc" target="_blank" rel="noreferrer">
+        <b>AI Fundamentals</b>
+      </a>
+      <br>
+      <sub>IBM SkillsBuild · Aug 2026</sub>
+    </td>
     <td align="center">
       <a href="https://www.credly.com/badges/8c8562b2-8d2e-4dac-a4c5-2aa0961d7cf4" target="_blank" rel="noreferrer">
         <b>Ethical Hacker</b>
