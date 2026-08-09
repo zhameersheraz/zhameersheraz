@@ -147,6 +147,32 @@ More on [my portfolio](https://zhameersheraz-ctf-portfolio.vercel.app/about).
       <br><b>Shodan</b>
     </td>
   </tr>
+  <tr>
+    <td align="center" width="100">
+      <a href="https://visualstudio.microsoft.com" target="_blank" rel="noreferrer">
+        <img src="https://skillicons.dev/icons?i=visualstudio" width="48" height="48" alt="Visual Studio" />
+      </a>
+      <br><b>Visual Studio</b>
+    </td>
+    <td align="center" width="100">
+      <a href="https://www.mysql.com" target="_blank" rel="noreferrer">
+        <img src="https://skillicons.dev/icons?i=mysql" width="48" height="48" alt="MySQL" />
+      </a>
+      <br><b>MySQL</b>
+    </td>
+    <td align="center" width="100">
+      <a href="https://react.dev" target="_blank" rel="noreferrer">
+        <img src="https://skillicons.dev/icons?i=react" width="48" height="48" alt="React" />
+      </a>
+      <br><b>React</b>
+    </td>
+    <td align="center" width="100">
+      <a href="https://nodejs.org" target="_blank" rel="noreferrer">
+        <img src="https://skillicons.dev/icons?i=nodejs" width="48" height="48" alt="Node.js" />
+      </a>
+      <br><b>Node.js</b>
+    </td>
+  </tr>
 </table>
 
 ---
