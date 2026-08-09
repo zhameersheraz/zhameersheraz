@@ -18,23 +18,60 @@ More on [my portfolio](https://zhameersheraz-ctf-portfolio.vercel.app/about).
 
 ## <img src="https://api.iconify.design/lucide:wrench.svg?color=%23aaaaaa" width="18" height="18" style="vertical-align:middle"/> Tech Stack
 
-<div align="center">
-
-**Languages**
-
-<img src="https://img.shields.io/badge/Java-Main%20language-0D1117?style=for-the-badge&logo=openjdk&logoColor=00D9FF&labelColor=0D1117">
-<img src="https://img.shields.io/badge/Python-CTF%20%26%20scripts-0D1117?style=for-the-badge&logo=python&logoColor=00D9FF&labelColor=0D1117">
-<img src="https://img.shields.io/badge/HTML5-Markup-0D1117?style=for-the-badge&logo=html5&logoColor=00D9FF&labelColor=0D1117">
-<img src="https://img.shields.io/badge/CSS3-Styling-0D1117?style=for-the-badge&logo=css3&logoColor=00D9FF&labelColor=0D1117">
-
-**Tools & Environment**
-
-<img src="https://img.shields.io/badge/Git-Version%20control-0D1117?style=for-the-badge&logo=git&logoColor=00D9FF&labelColor=0D1117">
-<img src="https://img.shields.io/badge/VSCode-Editor-0D1117?style=for-the-badge&logo=visualstudiocode&logoColor=00D9FF&labelColor=0D1117">
-<img src="https://img.shields.io/badge/Linux-Daily%20OS-0D1117?style=for-the-badge&logo=linux&logoColor=00D9FF&labelColor=0D1117">
-<img src="https://img.shields.io/badge/Kali-Pentesting-0D1117?style=for-the-badge&logo=kalilinux&logoColor=00D9FF&labelColor=0D1117">
-
-</div>
+<table align="center">
+  <tr>
+    <td align="center" width="100">
+      <a href="https://www.java.com" target="_blank" rel="noreferrer">
+        <img src="https://skillicons.dev/icons?i=java" width="48" height="48" alt="Java" />
+      </a>
+      <br><b>Java</b>
+    </td>
+    <td align="center" width="100">
+      <a href="https://www.python.org" target="_blank" rel="noreferrer">
+        <img src="https://skillicons.dev/icons?i=python" width="48" height="48" alt="Python" />
+      </a>
+      <br><b>Python</b>
+    </td>
+    <td align="center" width="100">
+      <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank" rel="noreferrer">
+        <img src="https://skillicons.dev/icons?i=html" width="48" height="48" alt="HTML5" />
+      </a>
+      <br><b>HTML5</b>
+    </td>
+    <td align="center" width="100">
+      <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank" rel="noreferrer">
+        <img src="https://skillicons.dev/icons?i=css" width="48" height="48" alt="CSS3" />
+      </a>
+      <br><b>CSS3</b>
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="100">
+      <a href="https://git-scm.com" target="_blank" rel="noreferrer">
+        <img src="https://skillicons.dev/icons?i=git" width="48" height="48" alt="Git" />
+      </a>
+      <br><b>Git</b>
+    </td>
+    <td align="center" width="100">
+      <a href="https://code.visualstudio.com" target="_blank" rel="noreferrer">
+        <img src="https://skillicons.dev/icons?i=vscode" width="48" height="48" alt="VSCode" />
+      </a>
+      <br><b>VS Code</b>
+    </td>
+    <td align="center" width="100">
+      <a href="https://www.linux.org" target="_blank" rel="noreferrer">
+        <img src="https://skillicons.dev/icons?i=linux" width="48" height="48" alt="Linux" />
+      </a>
+      <br><b>Linux</b>
+    </td>
+    <td align="center" width="100">
+      <a href="https://www.kali.org" target="_blank" rel="noreferrer">
+        <img src="https://skillicons.dev/icons?i=kali" width="48" height="48" alt="Kali" />
+      </a>
+      <br><b>Kali</b>
+    </td>
+  </tr>
+</table>
 
 ---
 
