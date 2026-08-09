@@ -10,6 +10,12 @@
 
 ---
 
+## <img src="https://api.iconify.design/lucide:user.svg?color=%23aaaaaa" width="18" height="18" style="vertical-align:middle"/> About
+
+More on [my portfolio](https://zhameersheraz-ctf-portfolio.vercel.app/about).
+
+---
+
 ## <img src="https://api.iconify.design/lucide:wrench.svg?color=%23aaaaaa" width="18" height="18" style="vertical-align:middle"/> Tech Stack
 
 <table align="center">
@@ -66,7 +72,7 @@
     </td>
     <td align="center" width="100">
       <a href="https://www.jetbrains.com/idea/" target="_blank" rel="noreferrer">
-        <img src="https://skillicons.dev/icons?i=intellij" width="48" height="48" alt="IntelliJ" />
+        <img src="https://api.iconify.design/logos:intellij-idea.svg" width="48" height="48" alt="IntelliJ" />
       </a>
       <br><b>IntelliJ</b>
     </td>
@@ -112,31 +118,31 @@
   <tr>
     <td align="center" width="100">
       <a href="https://nmap.org" target="_blank" rel="noreferrer">
-        <img src="https://skillicons.dev/icons?i=nmap" width="48" height="48" alt="Nmap" />
+        <img src="https://api.iconify.design/simple-icons:nmap.svg" width="48" height="48" alt="Nmap" />
       </a>
       <br><b>Nmap</b>
     </td>
     <td align="center" width="100">
       <a href="https://www.wireshark.org" target="_blank" rel="noreferrer">
-        <img src="https://skillicons.dev/icons?i=wireshark" width="48" height="48" alt="Wireshark" />
+        <img src="https://api.iconify.design/simple-icons:wireshark.svg" width="48" height="48" alt="Wireshark" />
       </a>
       <br><b>Wireshark</b>
     </td>
     <td align="center" width="100">
       <a href="https://ghidra-sre.org" target="_blank" rel="noreferrer">
-        <img src="https://skillicons.dev/icons?i=ghidra" width="48" height="48" alt="Ghidra" />
+        <img src="https://api.iconify.design/logos:ghidra.svg" width="48" height="48" alt="Ghidra" />
       </a>
       <br><b>Ghidra</b>
     </td>
     <td align="center" width="100">
       <a href="https://portswigger.net/burp" target="_blank" rel="noreferrer">
-        <img src="https://skillicons.dev/icons?i=burpsuite" width="48" height="48" alt="Burp Suite" />
+        <img src="https://api.iconify.design/logos:burpsuite.svg" width="48" height="48" alt="Burp Suite" />
       </a>
       <br><b>Burp Suite</b>
     </td>
     <td align="center" width="100">
       <a href="https://www.shodan.io" target="_blank" rel="noreferrer">
-        <img src="https://skillicons.dev/icons?i=shodan" width="48" height="48" alt="Shodan" />
+        <img src="https://api.iconify.design/simple-icons:shodan.svg" width="48" height="48" alt="Shodan" />
       </a>
       <br><b>Shodan</b>
     </td>
