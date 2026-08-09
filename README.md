@@ -22,17 +22,17 @@ More on [my portfolio](https://zhameersheraz-ctf-portfolio.vercel.app/about).
 
 **Languages**
 
-<img src="https://img.shields.io/badge/-Java-000000?style=for-the-badge&logo=openjdk&logoColor=white">
-<img src="https://img.shields.io/badge/-Python-000000?style=for-the-badge&logo=python&logoColor=white">
-<img src="https://img.shields.io/badge/-HTML5-000000?style=for-the-badge&logo=html5&logoColor=white">
-<img src="https://img.shields.io/badge/-CSS3-000000?style=for-the-badge&logo=css3&logoColor=white">
+<img src="https://img.shields.io/badge/Java-Main%20language-0D1117?style=for-the-badge&logo=openjdk&logoColor=00D9FF&labelColor=0D1117">
+<img src="https://img.shields.io/badge/Python-CTF%20%26%20scripts-0D1117?style=for-the-badge&logo=python&logoColor=00D9FF&labelColor=0D1117">
+<img src="https://img.shields.io/badge/HTML5-Markup-0D1117?style=for-the-badge&logo=html5&logoColor=00D9FF&labelColor=0D1117">
+<img src="https://img.shields.io/badge/CSS3-Styling-0D1117?style=for-the-badge&logo=css3&logoColor=00D9FF&labelColor=0D1117">
 
 **Tools & Environment**
 
-<img src="https://img.shields.io/badge/-Git-000000?style=for-the-badge&logo=git&logoColor=white">
-<img src="https://img.shields.io/badge/-VSCode-000000?style=for-the-badge&logo=visualstudiocode&logoColor=white">
-<img src="https://img.shields.io/badge/-Linux-000000?style=for-the-badge&logo=linux&logoColor=white">
-<img src="https://img.shields.io/badge/-Kali-000000?style=for-the-badge&logo=kalilinux&logoColor=white">
+<img src="https://img.shields.io/badge/Git-Version%20control-0D1117?style=for-the-badge&logo=git&logoColor=00D9FF&labelColor=0D1117">
+<img src="https://img.shields.io/badge/VSCode-Editor-0D1117?style=for-the-badge&logo=visualstudiocode&logoColor=00D9FF&labelColor=0D1117">
+<img src="https://img.shields.io/badge/Linux-Daily%20OS-0D1117?style=for-the-badge&logo=linux&logoColor=00D9FF&labelColor=0D1117">
+<img src="https://img.shields.io/badge/Kali-Pentesting-0D1117?style=for-the-badge&logo=kalilinux&logoColor=00D9FF&labelColor=0D1117">
 
 </div>
 
