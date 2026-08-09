@@ -117,38 +117,6 @@ More on [my portfolio](https://zhameersheraz-ctf-portfolio.vercel.app/about).
   </tr>
   <tr>
     <td align="center" width="100">
-      <a href="https://nmap.org" target="_blank" rel="noreferrer">
-        <img src="https://api.iconify.design/file-icons:nmap.svg?color=%235B89A0" width="48" height="48" alt="Nmap" />
-      </a>
-      <br><b>Nmap</b>
-    </td>
-    <td align="center" width="100">
-      <a href="https://www.wireshark.org" target="_blank" rel="noreferrer">
-        <img src="https://api.iconify.design/simple-icons:wireshark.svg?color=%23005F89" width="48" height="48" alt="Wireshark" />
-      </a>
-      <br><b>Wireshark</b>
-    </td>
-    <td align="center" width="100">
-      <a href="https://ghidra-sre.org" target="_blank" rel="noreferrer">
-        <img src="https://api.iconify.design/devicon:ghidra.svg" width="48" height="48" alt="Ghidra" />
-      </a>
-      <br><b>Ghidra</b>
-    </td>
-    <td align="center" width="100">
-      <a href="https://portswigger.net/burp" target="_blank" rel="noreferrer">
-        <img src="https://api.iconify.design/simple-icons:burpsuite.svg?color=%23FF6633" width="48" height="48" alt="Burp Suite" />
-      </a>
-      <br><b>Burp Suite</b>
-    </td>
-    <td align="center" width="100">
-      <a href="https://www.shodan.io" target="_blank" rel="noreferrer">
-        <img src="https://api.iconify.design/selfhst:shodan.svg" width="48" height="48" alt="Shodan" />
-      </a>
-      <br><b>Shodan</b>
-    </td>
-  </tr>
-  <tr>
-    <td align="center" width="100">
       <a href="https://visualstudio.microsoft.com" target="_blank" rel="noreferrer">
         <img src="https://skillicons.dev/icons?i=visualstudio" width="48" height="48" alt="Visual Studio" />
       </a>
@@ -161,16 +129,22 @@ More on [my portfolio](https://zhameersheraz-ctf-portfolio.vercel.app/about).
       <br><b>MySQL</b>
     </td>
     <td align="center" width="100">
-      <a href="https://react.dev" target="_blank" rel="noreferrer">
-        <img src="https://skillicons.dev/icons?i=react" width="48" height="48" alt="React" />
+      <a href="https://hashcat.net" target="_blank" rel="noreferrer">
+        <img src="https://skillicons.dev/icons?i=hashcat" width="48" height="48" alt="Hashcat" />
       </a>
-      <br><b>React</b>
+      <br><b>Hashcat</b>
     </td>
     <td align="center" width="100">
       <a href="https://nodejs.org" target="_blank" rel="noreferrer">
         <img src="https://skillicons.dev/icons?i=nodejs" width="48" height="48" alt="Node.js" />
       </a>
       <br><b>Node.js</b>
+    </td>
+    <td align="center" width="100">
+      <a href="https://www.openwall.com/john/" target="_blank" rel="noreferrer">
+        <img src="https://api.iconify.design/mdi:key.svg?color=%23cccccc" width="48" height="48" alt="John the Ripper" />
+      </a>
+      <br><b>John the Ripper</b>
     </td>
   </tr>
 </table>
