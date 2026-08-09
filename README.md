@@ -200,14 +200,14 @@ More on [my portfolio](https://zhameersheraz-ctf-portfolio.vercel.app/about).
         <b>Ethical Hacker</b>
       </a>
       <br>
-      <sub>Cisco Networking Academy · Jul 2026</sub>
+      <sub>Cisco Networking Academy · 70 hours · Jul 2026</sub>
     </td>
     <td align="center">
       <a href="https://www.credly.com/badges/e5dbf342-8980-467a-b74a-46c74104028b" target="_blank" rel="noreferrer">
         <b>Introduction to Cybersecurity</b>
       </a>
       <br>
-      <sub>Cisco Networking Academy · Jul 2026</sub>
+      <sub>Cisco Networking Academy · 6 hours · Jul 2026</sub>
     </td>
   </tr>
 </table>
