@@ -177,16 +177,22 @@ More on [my portfolio](https://zhameersheraz-ctf-portfolio.vercel.app/about).
 
 ---
 
+## <img src="https://api.iconify.design/lucide:award.svg?color=%23aaaaaa" width="18" height="18" style="vertical-align:middle"/> Certifications
+
 <div align="center">
 
-*"The more I learn, the more I realize how much I don't know yet."*
+<a href="https://www.credly.com/badges/8c8562b2-8d2e-4dac-a4c5-2aa0961d7cf4" target="_blank" rel="noreferrer">
+  <img src="https://images.credly.com/images/242902b5-f527-42ad-865e-977c9e1b5b58/linkedin_thumb_image.png" alt="Ethical Hacker - Cisco Networking Academy" width="180" />
+</a>
+&nbsp;&nbsp;&nbsp;
+<a href="https://www.credly.com/badges/e5dbf342-8980-467a-b74a-46c74104028b" target="_blank" rel="noreferrer">
+  <img src="https://images.credly.com/images/af8c6b4e-fc31-47c4-8dcb-eb7a2065dc5b/linkedin_thumb_I2CS__1_.png" alt="Introduction to Cybersecurity - Cisco Networking Academy" width="180" />
+</a>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,3,4,6&height=100&section=footer&text=Thanks+for+stopping+by&fontSize=28&fontColor=00D9FF&animation=twinkling" width="100%"/>
-
-## Certifications
+<br><br>
 
 [Ethical Hacker - Cisco Networking Academy](https://www.credly.com/badges/8c8562b2-8d2e-4dac-a4c5-2aa0961d7cf4) — Jul 2026
-
+&nbsp;&nbsp;&middot;&nbsp;&nbsp;
 [Introduction to Cybersecurity - Cisco Networking Academy](https://www.credly.com/badges/e5dbf342-8980-467a-b74a-46c74104028b) — Jul 2026
 
 </div>
