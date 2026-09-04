@@ -217,63 +217,11 @@ More on [my portfolio](https://zhameersheraz-portfolio.vercel.app/about).
 
 ---
 
-## <img src="https://api.iconify.design/lucide:award.svg?color=%23aaaaaa" width="18" height="18" style="vertical-align:middle"/> Certifications
+### Badges
 
-<div align="center">
-
-<table>
-  <tr>
-    <td align="center">
-      <a href="https://www.credly.com/badges/1a2a876f-c20f-46f4-a2bf-1646ea55f1dc" target="_blank" rel="noreferrer">
-        <img src="https://raw.githubusercontent.com/zhameersheraz/zhameersheraz/main/assets/ibm-ai-fundamentals.png?v=3" alt="AI Fundamentals - IBM SkillsBuild" width="80" height="80" />
-      </a>
-    </td>
-    <td align="center">
-      <a href="https://www.credly.com/badges/8c8562b2-8d2e-4dac-a4c5-2aa0961d7cf4" target="_blank" rel="noreferrer">
-        <img src="https://images.credly.com/images/242902b5-f527-42ad-865e-977c9e1b5b58/linkedin_thumb_image.png" alt="Ethical Hacker - Cisco Networking Academy" width="160" />
-      </a>
-    </td>
-    <td align="center">
-      <a href="https://www.credly.com/badges/a3e8e7f1-a9a9-425d-8509-c1dac21a7ebf" target="_blank" rel="noreferrer">
-        <img src="https://images.credly.com/images/e2d12302-10f9-40d4-8ff1-066a7008b61d/linkedin_thumb_blob" alt="Introduction to Modern AI - Cisco Networking Academy" width="160" />
-      </a>
-    </td>
-    <td align="center">
-      <a href="https://www.credly.com/badges/e5dbf342-8980-467a-b74a-46c74104028b" target="_blank" rel="noreferrer">
-        <img src="https://images.credly.com/images/af8c6b4e-fc31-47c4-8dcb-eb7a2065dc5b/linkedin_thumb_I2CS__1_.png" alt="Introduction to Cybersecurity - Cisco Networking Academy" width="160" />
-      </a>
-    </td>
-  </tr>
-  <tr>
-    <td align="center">
-      <a href="https://www.credly.com/badges/1a2a876f-c20f-46f4-a2bf-1646ea55f1dc" target="_blank" rel="noreferrer">
-        <b>AI Fundamentals</b>
-      </a>
-      <br>
-      <sub>IBM SkillsBuild · Aug 2026</sub>
-    </td>
-    <td align="center">
-      <a href="https://www.credly.com/badges/8c8562b2-8d2e-4dac-a4c5-2aa0961d7cf4" target="_blank" rel="noreferrer">
-        <b>Ethical Hacker</b>
-      </a>
-      <br>
-      <sub>Cisco Networking Academy · Jul 2026</sub>
-    </td>
-    <td align="center">
-      <a href="https://www.credly.com/badges/a3e8e7f1-a9a9-425d-8509-c1dac21a7ebf" target="_blank" rel="noreferrer">
-        <b>Introduction to Modern AI</b>
-      </a>
-      <br>
-      <sub>Cisco Networking Academy · Aug 2026</sub>
-    </td>
-    <td align="center">
-      <a href="https://www.credly.com/badges/e5dbf342-8980-467a-b74a-46c74104028b" target="_blank" rel="noreferrer">
-        <b>Introduction to Cybersecurity</b>
-      </a>
-      <br>
-      <sub>Cisco Networking Academy · Jul 2026</sub>
-    </td>
-  </tr>
-</table>
+[AI Fundamentals](https://www.credly.com/badges/1a2a876f-c20f-46f4-a2bf-1646ea55f1dc) ·
+[Ethical Hacker](https://www.credly.com/badges/8c8562b2-8d2e-4dac-a4c5-2aa0961d7cf4) ·
+[Introduction to Modern AI](https://www.credly.com/badges/a3e8e7f1-a9a9-425d-8509-c1dac21a7ebf) ·
+[Introduction to Cybersecurity](https://www.credly.com/badges/e5dbf342-8980-467a-b74a-46c74104028b)
 
 </div>
