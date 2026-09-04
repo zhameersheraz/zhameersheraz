@@ -2,8 +2,6 @@
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=00D9FF&center=true&vCenter=true&width=500&lines=CS+Student;Web+%26+Cloud" alt="Typing SVG" />
 
-
-
 ![Repositories](https://img.shields.io/badge/dynamic/json?url=https://api.github.com/users/zhameersheraz&query=$.public_repos&label=Repositories&color=20b4cf&style=flat-square&labelColor=1C2128&logo=github)
 
 </div>
@@ -116,70 +114,6 @@ build small open-source security tools in Python.
       <br><b>GitHub</b>
     </td>
   </tr>
-  <tr>
-    <td align="center" width="100">
-      <a href="https://nmap.org" target="_blank" rel="noreferrer">
-        <img src="https://api.iconify.design/file-icons:nmap.svg?color=%235B89A0" width="48" height="48" alt="Nmap" />
-      </a>
-      <br><b>Nmap</b>
-    </td>
-    <td align="center" width="100">
-      <a href="https://www.wireshark.org" target="_blank" rel="noreferrer">
-        <img src="https://api.iconify.design/simple-icons:wireshark.svg?color=%23005F89" width="48" height="48" alt="Wireshark" />
-      </a>
-      <br><b>Wireshark</b>
-    </td>
-    <td align="center" width="100">
-      <a href="https://ghidra-sre.org" target="_blank" rel="noreferrer">
-        <img src="https://api.iconify.design/devicon:ghidra.svg" width="48" height="48" alt="Ghidra" />
-      </a>
-      <br><b>Ghidra</b>
-    </td>
-    <td align="center" width="100">
-      <a href="https://portswigger.net/burp" target="_blank" rel="noreferrer">
-        <img src="https://api.iconify.design/simple-icons:burpsuite.svg?color=%23FF6633" width="48" height="48" alt="Burp Suite" />
-      </a>
-      <br><b>Burp Suite</b>
-    </td>
-    <td align="center" width="100">
-      <a href="https://www.shodan.io" target="_blank" rel="noreferrer">
-        <img src="https://api.iconify.design/selfhst:shodan.svg" width="48" height="48" alt="Shodan" />
-      </a>
-      <br><b>Shodan</b>
-    </td>
-  </tr>
-  <tr>
-    <td align="center" width="100">
-      <a href="https://visualstudio.microsoft.com" target="_blank" rel="noreferrer">
-        <img src="https://skillicons.dev/icons?i=visualstudio" width="48" height="48" alt="Visual Studio" />
-      </a>
-      <br><b>Visual Studio</b>
-    </td>
-    <td align="center" width="100">
-      <a href="https://www.mysql.com" target="_blank" rel="noreferrer">
-        <img src="https://skillicons.dev/icons?i=mysql" width="48" height="48" alt="MySQL" />
-      </a>
-      <br><b>MySQL</b>
-    </td>
-    <td align="center" width="100">
-      <a href="https://hashcat.net" target="_blank" rel="noreferrer">
-        <img src="https://raw.githubusercontent.com/zhameersheraz/zhameersheraz/main/assets/hashcat.png" width="48" height="48" alt="Hashcat" />
-      </a>
-      <br><b>Hashcat</b>
-    </td>
-    <td align="center" width="100">
-      <a href="https://nodejs.org" target="_blank" rel="noreferrer">
-        <img src="https://skillicons.dev/icons?i=nodejs" width="48" height="48" alt="Node.js" />
-      </a>
-      <br><b>Node.js</b>
-    </td>
-    <td align="center" width="100">
-      <a href="https://www.openwall.com/john/" target="_blank" rel="noreferrer">
-        <img src="https://raw.githubusercontent.com/zhameersheraz/zhameersheraz/main/assets/john-the-ripper.png" width="48" height="48" alt="John the Ripper" />
-      </a>
-      <br><b>John the Ripper</b>
-    </td>
-  </tr>
 </table>
 
 ---
@@ -197,6 +131,7 @@ build small open-source security tools in Python.
 </div>
 
 ---
+
 ## <img src="https://api.iconify.design/lucide:mail.svg?color=%23aaaaaa" width="18" height="18" style="vertical-align:middle"/> Connect
 
 <a href="https://github.com/zhameersheraz"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"></a>
@@ -207,11 +142,37 @@ build small open-source security tools in Python.
 
 ---
 
-### Badges
+## <img src="https://api.iconify.design/lucide:award.svg?color=%23aaaaaa" width="18" height="18" style="vertical-align:middle"/> Badges
 
-[AI Fundamentals](https://www.credly.com/badges/1a2a876f-c20f-46f4-a2bf-1646ea55f1dc) ·
-[Ethical Hacker](https://www.credly.com/badges/8c8562b2-8d2e-4dac-a4c5-2aa0961d7cf4) ·
-[Introduction to Modern AI](https://www.credly.com/badges/a3e8e7f1-a9a9-425d-8509-c1dac21a7ebf) ·
-[Introduction to Cybersecurity](https://www.credly.com/badges/e5dbf342-8980-467a-b74a-46c74104028b)
-
-</div>
+<table align="center">
+  <tr>
+    <td align="center" width="180">
+      <a href="https://www.credly.com/badges/e5dbf342-8980-467a-b74a-46c74104028b" target="_blank" rel="noreferrer">
+        <img src="https://cdn.simpleicons.org/cisco" width="32" height="32" alt="Cisco" />
+      </a>
+      <br><b>Introduction to Cybersecurity</b>
+      <br><sub>Cisco · Jul 2026</sub>
+    </td>
+    <td align="center" width="180">
+      <a href="https://www.credly.com/badges/8c8562b2-8d2e-4dac-a4c5-2aa0961d7cf4" target="_blank" rel="noreferrer">
+        <img src="https://cdn.simpleicons.org/cisco" width="32" height="32" alt="Cisco" />
+      </a>
+      <br><b>Ethical Hacker</b>
+      <br><sub>Cisco · Jul 2026</sub>
+    </td>
+    <td align="center" width="180">
+      <a href="https://www.credly.com/badges/a3e8e7f1-a9a9-425d-8509-c1dac21a7ebf" target="_blank" rel="noreferrer">
+        <img src="https://cdn.simpleicons.org/cisco" width="32" height="32" alt="Cisco" />
+      </a>
+      <br><b>Introduction to Modern AI</b>
+      <br><sub>Cisco · Aug 2026</sub>
+    </td>
+    <td align="center" width="180">
+      <a href="https://www.credly.com/badges/1a2a876f-c20f-46f4-a2bf-1646ea55f1dc" target="_blank" rel="noreferrer">
+        <img src="https://cdn.simpleicons.org/ibm" width="32" height="32" alt="IBM" />
+      </a>
+      <br><b>AI Fundamentals</b>
+      <br><sub>IBM · Aug 2026</sub>
+    </td>
+  </tr>
+</table>
