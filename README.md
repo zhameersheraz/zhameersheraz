@@ -10,7 +10,7 @@
 
 ## <img src="https://api.iconify.design/lucide:user.svg?color=%23aaaaaa" width="18" height="18" style="vertical-align:middle"/> About
 
-CS student at Saint Columban College, Pagadian City. I do online CTFs and
+Computer Science student at Saint Columban College, Pagadian City. I do online CTFs and
 build small open-source security tools in Python.
 
 ---
