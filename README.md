@@ -10,8 +10,7 @@
 
 ## <img src="https://api.iconify.design/lucide:user.svg?color=%23aaaaaa" width="18" height="18" style="vertical-align:middle"/> About
 
-Computer Science student at Saint Columban College, Pagadian City. Active competitor in online CTF competitions (forensics, 
-reverse engineering, pwn, web) and builder of small open-source security tools in Python.
+Computer Science student at Saint Columban College, Pagadian City. Active competitor in online CTF competitions (forensics, reverse engineering, pwn, web) and builder of small open-source security tools in Python.
 ---
 
 ## <img src="https://api.iconify.design/lucide:wrench.svg?color=%23aaaaaa" width="18" height="18" style="vertical-align:middle"/> Arsenal
