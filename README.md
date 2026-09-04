@@ -169,7 +169,7 @@ build small open-source security tools in Python.
     </td>
     <td align="center" width="180">
       <a href="https://www.credly.com/badges/1a2a876f-c20f-46f4-a2bf-1646ea55f1dc" target="_blank" rel="noreferrer">
-        <img src="https://cdn.simpleicons.org/ibm" width="32" height="32" alt="IBM" />
+        <img src="https://cdn.simpleicons.org/cisco" width="32" height="32" alt="Cisco" />
       </a>
       <br><b>AI Fundamentals</b>
       <br><sub>IBM · Aug 2026</sub>
