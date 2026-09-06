@@ -8,7 +8,7 @@
 
 ---
 
-## <img src="https://api.iconify.design/lucide:wrench.svg?color=%23aaaaaa" width="18" height="18" style="vertical-align:middle"/> Tech Stack
+## <img src="https://api.iconify.design/lucide:wrench.svg?color=%23aaaaaa" width="18" height="18" style="vertical-align:middle"/> Tools & Tech
 
 <table align="center">
   <tr>
