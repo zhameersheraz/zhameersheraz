@@ -119,7 +119,7 @@
 
 <img src="https://fabianocouto-activity-graph.vercel.app/graph?username=zhameersheraz&bg_color=0D1117&color=00D9FF&line=00D9FF&point=ffffff&area=true&hide_border=true" alt="Contribution Graph" />
 
-[![committers.top badge](https://user-badge.committers.top/philippines/zhameersheraz.svg)](https://committers.top/philippines.html)
+
 
 </div>
 
