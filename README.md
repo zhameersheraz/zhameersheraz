@@ -25,13 +25,6 @@
 <table align="center">
   <tr>
     <td align="center" width="180">
-      <a href="https://committers.top/philippines.html#zhameersheraz" target="_blank" rel="noreferrer">
-        <img src="https://api.iconify.design/simple-icons:github.svg?color=%23ffffff" width="32" height="32" alt="committers.top" />
-      </a>
-      <br><b>#73 Most Active GitHub User in the Philippines</b>
-      <br><sub>committers.top · Oct 2026</sub>
-    </td>
-    <td align="center" width="180">
       <a href="https://www.credly.com/badges/e5dbf342-8980-467a-b74a-46c74104028b" target="_blank" rel="noreferrer">
         <img src="https://cdn.simpleicons.org/cisco" width="32" height="32" alt="Cisco" />
       </a>
@@ -45,8 +38,6 @@
       <br><b>Ethical Hacker</b>
       <br><sub>Cisco · Jul 2026</sub>
     </td>
-  </tr>
-  <tr>
     <td align="center" width="180">
       <a href="https://www.credly.com/badges/a3e8e7f1-a9a9-425d-8509-c1dac21a7ebf" target="_blank" rel="noreferrer">
         <img src="https://cdn.simpleicons.org/cisco" width="32" height="32" alt="Cisco" />
@@ -61,7 +52,6 @@
       <br><b>AI Fundamentals</b>
       <br><sub>IBM · Aug 2026</sub>
     </td>
-    <td></td>
   </tr>
 </table>
 
