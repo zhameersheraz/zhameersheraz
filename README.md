@@ -8,6 +8,82 @@
 
 ---
 
+## <img src="https://api.iconify.design/lucide:bar-chart-2.svg?color=%23aaaaaa" width="18" height="18" style="vertical-align:middle"/> GitHub Stats
+
+<div align="center">
+
+<img src="https://streak-stats.demolab.com/?user=zhameersheraz&hide_border=true&background=0D1117&ring=00D9FF&fire=00D9FF&currStreakLabel=00D9FF&currStreakNum=C084FC&sideNums=C084FC&sideLabels=C9D1D9&dates=C9D1D9&date_format=j%20M%5B%2C%20Y%5D&timezone=Asia%2FManila" alt="GitHub Streak" />
+
+<img src="https://fabianocouto-activity-graph.vercel.app/graph?username=zhameersheraz&bg_color=0D1117&color=00D9FF&line=00D9FF&point=ffffff&area=true&hide_border=true" alt="Contribution Graph" />
+
+</div>
+
+---
+
+## <img src="https://api.iconify.design/lucide:globe-2.svg?color=%23aaaaaa" width="18" height="18" style="vertical-align:middle"/> Featured Project
+
+<div align="center">
+
+### 📈 [ph-stocks](https://github.com/zhameersheraz/ph-stocks) — Philippine Stock Exchange, live
+
+[![Live site](https://img.shields.io/badge/live-2ea043?style=for-the-badge&labelColor=0d1117&logo=googlechrome&logoColor=white)](https://zhameersheraz.github.io/ph-stocks/)
+[![committers.top](https://img.shields.io/badge/committers.top-PHILIPPINES%20%2373-2ea043?style=for-the-badge&labelColor=0d1117)](https://committers.top/philippines.html#zhameersheraz)
+
+A self-updating Philippine Stock Exchange dashboard. Scrapes real PSE Edge data every 30 minutes via GitHub Actions — 21 blue chips, sector indices, market summary, and 90-day candlestick charts per ticker. Zero dependencies, Python stdlib only, deployed on GitHub Pages.
+
+**[→ Visit the live dashboard](https://zhameersheraz.github.io/ph-stocks/)**
+
+</div>
+
+---
+
+## <img src="https://api.iconify.design/lucide:award.svg?color=%23aaaaaa" width="18" height="18" style="vertical-align:middle"/> Badges
+
+<table align="center">
+  <tr>
+    <td align="center" width="180">
+      <a href="https://committers.top/philippines.html#zhameersheraz" target="_blank" rel="noreferrer">
+        <img src="https://api.iconify.design/simple-icons:github.svg?color=%23ffffff" width="32" height="32" alt="committers.top" />
+      </a>
+      <br><b>#73 Most Active GitHub User in the Philippines</b>
+      <br><sub>committers.top · Oct 2026</sub>
+    </td>
+    <td align="center" width="180">
+      <a href="https://www.credly.com/badges/e5dbf342-8980-467a-b74a-46c74104028b" target="_blank" rel="noreferrer">
+        <img src="https://cdn.simpleicons.org/cisco" width="32" height="32" alt="Cisco" />
+      </a>
+      <br><b>Introduction to Cybersecurity</b>
+      <br><sub>Cisco · Jul 2026</sub>
+    </td>
+    <td align="center" width="180">
+      <a href="https://www.credly.com/badges/8c8562b2-8d2e-4dac-a4c5-2aa0961d7cf4" target="_blank" rel="noreferrer">
+        <img src="https://cdn.simpleicons.org/cisco" width="32" height="32" alt="Cisco" />
+      </a>
+      <br><b>Ethical Hacker</b>
+      <br><sub>Cisco · Jul 2026</sub>
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="180">
+      <a href="https://www.credly.com/badges/a3e8e7f1-a9a9-425d-8509-c1dac21a7ebf" target="_blank" rel="noreferrer">
+        <img src="https://cdn.simpleicons.org/cisco" width="32" height="32" alt="Cisco" />
+      </a>
+      <br><b>Introduction to Modern AI</b>
+      <br><sub>Cisco · Aug 2026</sub>
+    </td>
+    <td align="center" width="180">
+      <a href="https://www.credly.com/badges/1a2a876f-c20f-46f4-a2bf-1646ea55f1dc" target="_blank" rel="noreferrer">
+        <img src="https://api.iconify.design/simple-icons:ibm.svg?color=%230f62fe" width="32" height="32" alt="IBM" />
+      </a>
+      <br><b>AI Fundamentals</b>
+      <br><sub>IBM · Aug 2026</sub>
+    </td>
+    <td></td>
+  </tr>
+</table>
+
+---
+
 ## <img src="https://api.iconify.design/lucide:wrench.svg?color=%23aaaaaa" width="18" height="18" style="vertical-align:middle"/> Tools & Tech
 
 <table align="center">
@@ -111,20 +187,6 @@
 
 ---
 
-## <img src="https://api.iconify.design/lucide:bar-chart-2.svg?color=%23aaaaaa" width="18" height="18" style="vertical-align:middle"/> GitHub Stats
-
-<div align="center">
-
-<img src="https://streak-stats.demolab.com/?user=zhameersheraz&hide_border=true&background=0D1117&ring=00D9FF&fire=00D9FF&currStreakLabel=00D9FF&currStreakNum=C084FC&sideNums=C084FC&sideLabels=C9D1D9&dates=C9D1D9&date_format=j%20M%5B%2C%20Y%5D&timezone=Asia%2FManila" alt="GitHub Streak" />
-
-<img src="https://fabianocouto-activity-graph.vercel.app/graph?username=zhameersheraz&bg_color=0D1117&color=00D9FF&line=00D9FF&point=ffffff&area=true&hide_border=true" alt="Contribution Graph" />
-
-
-
-</div>
-
----
-
 ## <img src="https://api.iconify.design/lucide:mail.svg?color=%23aaaaaa" width="18" height="18" style="vertical-align:middle"/> Connect
 
 <a href="https://github.com/zhameersheraz"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"></a>
@@ -132,40 +194,3 @@
 <a href="https://www.facebook.com/zhameersheraz"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook"></a>
 <a href="mailto:zhameersheraztampugao@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
 <a href="https://zhameersheraz-portfolio.vercel.app"><img src="https://img.shields.io/badge/Portfolio-111111?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"></a>
-
----
-
-## <img src="https://api.iconify.design/lucide:award.svg?color=%23aaaaaa" width="18" height="18" style="vertical-align:middle"/> Badges
-
-<table align="center">
-  <tr>
-    <td align="center" width="180">
-      <a href="https://www.credly.com/badges/e5dbf342-8980-467a-b74a-46c74104028b" target="_blank" rel="noreferrer">
-        <img src="https://cdn.simpleicons.org/cisco" width="32" height="32" alt="Cisco" />
-      </a>
-      <br><b>Introduction to Cybersecurity</b>
-      <br><sub>Cisco · Jul 2026</sub>
-    </td>
-    <td align="center" width="180">
-      <a href="https://www.credly.com/badges/8c8562b2-8d2e-4dac-a4c5-2aa0961d7cf4" target="_blank" rel="noreferrer">
-        <img src="https://cdn.simpleicons.org/cisco" width="32" height="32" alt="Cisco" />
-      </a>
-      <br><b>Ethical Hacker</b>
-      <br><sub>Cisco · Jul 2026</sub>
-    </td>
-    <td align="center" width="180">
-      <a href="https://www.credly.com/badges/a3e8e7f1-a9a9-425d-8509-c1dac21a7ebf" target="_blank" rel="noreferrer">
-        <img src="https://cdn.simpleicons.org/cisco" width="32" height="32" alt="Cisco" />
-      </a>
-      <br><b>Introduction to Modern AI</b>
-      <br><sub>Cisco · Aug 2026</sub>
-    </td>
-    <td align="center" width="180">
-      <a href="https://www.credly.com/badges/1a2a876f-c20f-46f4-a2bf-1646ea55f1dc" target="_blank" rel="noreferrer">
-        <img src="https://api.iconify.design/simple-icons:ibm.svg?color=%230f62fe" width="32" height="32" alt="IBM" />
-      </a>
-      <br><b>AI Fundamentals</b>
-      <br><sub>IBM · Aug 2026</sub>
-    </td>
-  </tr>
-</table>
