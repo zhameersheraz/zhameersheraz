@@ -22,6 +22,12 @@
 
 ## <img src="https://api.iconify.design/lucide:award.svg?color=%23aaaaaa" width="18" height="18" style="vertical-align:middle"/> Badges
 
+<div align="center">
+
+[![committers.top rank](https://user-badge.committers.top/philippines/zhameersheraz.svg)](https://committers.top/philippines.html#zhameersheraz)
+
+</div>
+
 <table align="center">
   <tr>
     <td align="center" width="180">
