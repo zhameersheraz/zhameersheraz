@@ -20,23 +20,6 @@
 
 ---
 
-## <img src="https://api.iconify.design/lucide:globe-2.svg?color=%23aaaaaa" width="18" height="18" style="vertical-align:middle"/> Featured Project
-
-<div align="center">
-
-### 📈 [ph-stocks](https://github.com/zhameersheraz/ph-stocks) — Philippine Stock Exchange, live
-
-[![Live site](https://img.shields.io/badge/live-2ea043?style=for-the-badge&labelColor=0d1117&logo=googlechrome&logoColor=white)](https://zhameersheraz.github.io/ph-stocks/)
-[![committers.top](https://img.shields.io/badge/committers.top-PHILIPPINES%20%2373-2ea043?style=for-the-badge&labelColor=0d1117)](https://committers.top/philippines.html#zhameersheraz)
-
-A self-updating Philippine Stock Exchange dashboard. Scrapes real PSE Edge data every 30 minutes via GitHub Actions — 21 blue chips, sector indices, market summary, and 90-day candlestick charts per ticker. Zero dependencies, Python stdlib only, deployed on GitHub Pages.
-
-**[→ Visit the live dashboard](https://zhameersheraz.github.io/ph-stocks/)**
-
-</div>
-
----
-
 ## <img src="https://api.iconify.design/lucide:award.svg?color=%23aaaaaa" width="18" height="18" style="vertical-align:middle"/> Badges
 
 <table align="center">
