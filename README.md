@@ -25,6 +25,7 @@
 <div align="center">
 
 [![committers.top rank](https://user-badge.committers.top/philippines/zhameersheraz.svg)](https://committers.top/philippines.html#zhameersheraz)
+[![committers.top badge](https://user-badge.committers.top/philippines_private/zhameersheraz.svg)](https://committers.top/philippines_private.html#zhameersheraz)
 
 </div>
 
