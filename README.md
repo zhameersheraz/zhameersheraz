@@ -24,7 +24,7 @@
 
 <div align="center">
 
-[![committers.top badge](badge.svg)](https://committers.top/philippines_private.html#zhameersheraz)
+[![committers.top badge](https://user-badge.committers.top/philippines_private/zhameersheraz.svg)](https://committers.top/philippines_private.html#zhameersheraz)
 
 </div>
 
