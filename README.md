@@ -24,7 +24,7 @@
 
 <div align="center">
 
-[![committers.top](https://img.shields.io/badge/committers.top-PH%20%2322%20%28private%29-white?labelColor=black)](https://committers.top/philippines_private.html#zhameersheraz)
+[![committers.top badge](badge.svg)](https://committers.top/philippines_private.html#zhameersheraz)
 
 </div>
 
