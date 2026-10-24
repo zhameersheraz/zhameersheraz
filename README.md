@@ -63,6 +63,25 @@
 
 ---
 
+## <img src="https://api.iconify.design/lucide:rocket.svg?color=%23aaaaaa" width="18" height="18" style="vertical-align:middle"/> Featured Projects
+
+<table align="center">
+  <tr>
+    <td align="center" width="460">
+      <a href="https://trash-sorter.enjeanearz.workers.dev" target="_blank" rel="noreferrer">
+        <img src="https://img.shields.io/badge/Live_Demo-Trash_Sorter-00D9FF?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Trash Sorter live demo" />
+      </a>
+      <br><b>Trash Sorter</b>
+      <br><sub>AI waste classifier - point a camera at litter, it names the bin</sub>
+      <br>Teachable Machine &middot; TensorFlow.js &middot; Cloudflare Workers
+      <br><a href="https://trash-sorter.enjeanearz.workers.dev" target="_blank" rel="noreferrer">Live demo</a>
+      &nbsp;&middot;&nbsp;
+      <a href="https://github.com/zhameersheraz/trash-sorter" target="_blank" rel="noreferrer">Source</a>
+    </td>
+  </tr>
+</table>
+---
+
 ## <img src="https://api.iconify.design/lucide:wrench.svg?color=%23aaaaaa" width="18" height="18" style="vertical-align:middle"/> Tools & Tech
 
 <table align="center">
@@ -172,4 +191,5 @@
 <a href="https://linkedin.com/in/zhameersheraz"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
 <a href="https://www.facebook.com/zhameersheraz"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook"></a>
 <a href="mailto:zhameersheraztampugao@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
+<a href="https://trash-sorter.enjeanearz.workers.dev"><img src="https://img.shields.io/badge/Trash_Sorter-00D9FF?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Trash Sorter"></a>
 <a href="https://zhameersheraz-portfolio.vercel.app"><img src="https://img.shields.io/badge/Portfolio-111111?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"></a>
