@@ -8,7 +8,7 @@
 
 ---
 
-## <img src="https://api.iconify.design/lucide:bar-chart-2.svg?color=%23aaaaaa" width="18" height="18" style="vertical-align:middle"/> GitHub Stats
+## <img src="https://api.iconify.design/lucide/bar-chart-2.svg?color=%23aaaaaa" width="18" height="18" style="vertical-align:middle"/> GitHub Stats
 
 <div align="center">
 
@@ -20,7 +20,7 @@
 
 ---
 
-## <img src="https://api.iconify.design/lucide:award.svg?color=%23aaaaaa" width="18" height="18" style="vertical-align:middle"/> Badges
+## <img src="https://api.iconify.design/lucide/award.svg?color=%23aaaaaa" width="18" height="18" style="vertical-align:middle"/> Badges
 
 <div align="center">
 
@@ -51,7 +51,7 @@
     </td>
     <td align="center" width="180">
       <a href="https://www.credly.com/badges/1a2a876f-c20f-46f4-a2bf-1646ea55f1dc" target="_blank" rel="noreferrer">
-        <img src="https://api.iconify.design/simple-icons:ibm.svg?color=%230f62fe" width="32" height="32" alt="IBM" />
+        <img src="https://api.iconify.design/simple-icons/ibm.svg?color=%230f62fe" width="32" height="32" alt="IBM" />
       </a>
       <br><b>AI Fundamentals</b>
       <br><sub>IBM · Aug 2026</sub>
@@ -61,7 +61,7 @@
 
 ---
 
-## <img src="https://api.iconify.design/lucide:wrench.svg?color=%23aaaaaa" width="18" height="18" style="vertical-align:middle"/> Tools & Tech
+## <img src="https://api.iconify.design/lucide/wrench.svg?color=%23aaaaaa" width="18" height="18" style="vertical-align:middle"/> Tools & Tech
 
 <table align="center">
   <tr>
@@ -117,7 +117,7 @@
     </td>
     <td align="center" width="100">
       <a href="https://www.jetbrains.com/idea/" target="_blank" rel="noreferrer">
-        <img src="https://api.iconify.design/logos:intellij-idea.svg" width="48" height="48" alt="IntelliJ" />
+        <img src="https://api.iconify.design/logos/intellij-idea.svg" width="48" height="48" alt="IntelliJ" />
       </a>
       <br><b>IntelliJ</b>
     </td>
@@ -164,7 +164,7 @@
 
 ---
 
-## <img src="https://api.iconify.design/lucide:mail.svg?color=%23aaaaaa" width="18" height="18" style="vertical-align:middle"/> Connect
+## <img src="https://api.iconify.design/lucide/mail.svg?color=%23aaaaaa" width="18" height="18" style="vertical-align:middle"/> Connect
 
 <a href="https://github.com/zhameersheraz"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"></a>
 <a href="https://linkedin.com/in/zhameersheraz"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
