@@ -11,7 +11,7 @@
 **Security-focused CS student from Zamboanga del Sur, Philippines.**
 ESP32 firmware analysis · web app security · PHP backends · CTF writeups
 
-Currently building <a href="https://github.com/zhameersheraz/cfg-visualizer">cfg-visualizer</a> — a 3D control-flow graph explorer for reverse engineering.
+Currently building <a href="https://github.com/zhameersheraz/esp32sec">esp32sec</a> — an ESP32/ESP8266 firmware analysis and security toolkit.
 
 Open to freelance and collabs → <a href="https://zhameersheraz-portfolio.vercel.app">portfolio</a>
 
