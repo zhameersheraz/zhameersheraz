@@ -6,6 +6,16 @@
 
 </div>
 
+<div align="center">
+
+**Security-focused CS student from Zamboanga del Sur, Philippines.**
+ESP32 firmware analysis · web app security · PHP backends · CTF writeups
+
+Currently building <a href="https://github.com/zhameersheraz/cfg-visualizer">cfg-visualizer</a> — a 3D control-flow graph explorer for reverse engineering.
+
+Open to freelance and collabs → <a href="https://zhameersheraz-portfolio.vercel.app">portfolio</a>
+
+
 ---
 
 ## <img src="https://api.iconify.design/lucide/bar-chart-2.svg?color=%23aaaaaa" width="18" height="18" style="vertical-align:middle"/> GitHub Stats
@@ -21,11 +31,6 @@
 ---
 
 ## <img src="https://api.iconify.design/lucide/award.svg?color=%23aaaaaa" width="18" height="18" style="vertical-align:middle"/> Badges
-
-<div align="center">
-
-</div>
-
 <table align="center">
   <tr>
     <td align="center" width="180">
