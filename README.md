@@ -15,6 +15,8 @@ Currently building <a href="https://github.com/zhameersheraz/cfg-visualizer">cfg
 
 Open to freelance and collabs → <a href="https://zhameersheraz-portfolio.vercel.app">portfolio</a>
 
+</div>
+
 
 ---
 
