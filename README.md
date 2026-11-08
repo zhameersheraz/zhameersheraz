@@ -24,6 +24,12 @@
 
 <div align="center">
 
+<a href="https://committers.top/philippines" target="_blank" rel="noreferrer">
+  <img src="https://user-badge.committers.top/philippines/zhameersheraz.svg" alt="committers.top rank: Philippines" />
+</a>
+
+<sub>Top 40 committers in the Philippines on <a href="https://committers.top/philippines">committers.top</a> (November 2026)</sub>
+
 </div>
 
 <table align="center">
