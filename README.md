@@ -25,10 +25,10 @@
 <div align="center">
 
 <a href="https://committers.top/philippines" target="_blank" rel="noreferrer">
-  <img src="https://img.shields.io/badge/Top%2040%20committer%20in%20the%20Philippines-007ec6?style=flat-square&logo=github&logoColor=white" alt="Top 40 committer in the Philippines on committers.top" />
+  <img src="https://img.shields.io/badge/Top%2020%20committer%20in%20the%20Philippines-007ec6?style=flat-square&logo=github&logoColor=white" alt="Top 40 committer in the Philippines on committers.top" />
 </a>
 
-<sub>Ranked in the <b>top 40 committers in the Philippines</b> on <a href="https://committers.top/philippines">committers.top</a> (November 2026)</sub>
+<sub>Ranked in the <b>top 20 committers in the Philippines by total contributions</b> on <a href="https://committers.top/philippines">committers.top</a> (November 2026)</sub>
 
 </div>
 
@@ -176,4 +176,3 @@
 <a href="https://linkedin.com/in/zhameersheraz"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
 <a href="https://www.facebook.com/zhameersheraz"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook"></a>
 <a href="mailto:zhameersheraztampugao@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
-<a href="https://zhameersheraz-portfolio.vercel.app"><img src="https://img.shields.io/badge/Portfolio-111111?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"></a>
