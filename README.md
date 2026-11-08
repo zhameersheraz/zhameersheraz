@@ -24,6 +24,12 @@
 
 <div align="center">
 
+<a href="https://committers.top/philippines" target="_blank" rel="noreferrer">
+  <img src="https://img.shields.io/badge/Top%2040%20committer%20in%20the%20Philippines-007ec6?style=flat-square&logo=github&logoColor=white" alt="Top 40 committer in the Philippines on committers.top" />
+</a>
+
+<sub>Ranked in the <b>top 40 committers in the Philippines</b> on <a href="https://committers.top/philippines">committers.top</a> (November 2026)</sub>
+
 </div>
 
 <table align="center">
