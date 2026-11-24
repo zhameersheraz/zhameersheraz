@@ -8,44 +8,41 @@
 
 **I build working software and ship security tools. Open to freelance work, collabs and internships.**
 
-I am a Computer Science undergraduate in the Philippines. Two CTF championships, 18 certifications, 60+ challenges solved and written up, and a set of products that are live right now. Everything below has a working link.
-
-**Available for** freelance and contract work: restaurant and small business tooling, web and mobile apps, security assessments, firmware and reverse engineering work, and cloud hardening.
+Two CTF championships, 18 certifications, 60+ challenges written up. Every product below is live.
 
 ---
 
 ## <img src="https://api.iconify.design/lucide/briefcase.svg?color=%23aaaaaa" width="18" height="18" style="vertical-align:middle"/> What I build
 
-- **Order flow for small restaurants.** A counter tablet takes the order and the kitchen screen shows it the second it is sent. No paper tickets, no printer to buy or refill, no shouting across the pass, fewer wrong orders. [Live demo](https://kds-app-5d6v.onrender.com)
-- **Decision tools for farmers.** NASA satellite data turned into field level advice for ube growers, in Bisaya, Filipino or English. Which field to plant, which rotation to follow, compared against what they already do.
-- **Market data for retail investors.** 21 Philippine blue chips with 90 day candlestick charts, refreshed hourly, free, no terminal and no subscription. [Live site](https://zhameersheraz.github.io/ph-stocks/)
-- **Security work for teams.** Firmware analysis, control flow graph review, network scanning and cloud misconfiguration checks, so a team finds the hole before someone else does.
-- **Safety tooling that does not need a server.** Fire and smoke alerting that runs on the phone, sends a GPS pin to an emergency contact, keeps working with no signal and never uploads the camera feed.
+- **Restaurant ordering** - counter tablet to kitchen screen, no paper tickets, no printer cost, fewer wrong orders
+- **Farm decision tools** - NASA satellite data turned into field advice for ube growers, in Bisaya, Filipino or English
+- **Market data** - 21 PSE blue chips with 90 day charts, refreshed hourly, free
+- **Security work** - firmware analysis, CFG review, network scanning, cloud misconfiguration checks
+- **Offline safety apps** - fire and smoke alerting on the phone, GPS pin to an emergency contact, no cloud
 
 ---
 
 ## <img src="https://api.iconify.design/lucide/package.svg?color=%23aaaaaa" width="18" height="18" style="vertical-align:middle"/> Shipped and live
 
-| What it is | Who it is for | Status |
-| --- | --- | --- |
-| [KDS](https://github.com/zhameersheraz/kds-app) | Small restaurants and cafes | [Live demo](https://kds-app-5d6v.onrender.com) |
-| [UbiMap](https://github.com/zhameersheraz/ubimap) | Smallholder farmers in Zamboanga del Sur | NASA Space Apps 2026, Field Shift |
-| [PSE Dashboard](https://github.com/zhameersheraz/ph-stocks) | Filipino retail investors | [Live site](https://zhameersheraz.github.io/ph-stocks/) |
-| [AQUASCOUT](https://github.com/zhameersheraz/aquascout-site) | Workplace safety, runs offline | [Live demo](https://aquascout.vercel.app) |
-| [Trash Sorter](https://github.com/zhameersheraz/trash-sorter) | Waste and recycling operators | [Live app](https://trash-sorter.enjeanearz.workers.dev/) |
-| [CFG Visualizer](https://github.com/zhameersheraz/cfg-visualizer) | Security and reverse engineering teams | [Live site](https://cfg-visualizer-eight.vercel.app) |
-| [ESP32sec](https://github.com/zhameersheraz/esp32sec) | Firmware and IoT security | Open source Python toolkit |
-| [Cloud Security Cheatsheet](https://github.com/zhameersheraz/cloud-security) | AWS, Azure and GCP teams | [Live site](https://zhameersheraz-cloud-security.vercel.app) |
-| [Portfolio](https://github.com/zhameersheraz/portfolio) | Everything above in one place | [Live site](https://zhameersheraz-portfolio.vercel.app) |
+| Project | Who it is for | Results | Links |
+| --- | --- | --- | --- |
+| KDS, POS to kitchen display | Small restaurants and cafes | No paper tickets, no printer to buy or refill, fewer wrong orders | [demo](https://kds-app-5d6v.onrender.com) · [code](https://github.com/zhameersheraz/kds-app) |
+| UbiMap, ube rotation advice | Ube farmers in Zamboanga del Sur | NASA Space Apps 2026, Field Shift track | [code](https://github.com/zhameersheraz/ubimap) |
+| PSE dashboard, 21 blue chips | Filipino retail investors | Hourly refresh, 90 day candles, no terminal and no subscription | [site](https://zhameersheraz.github.io/ph-stocks/) · [code](https://github.com/zhameersheraz/ph-stocks) |
+| AQUASCOUT, fire and smoke | Workplace safety | Detection runs on the phone, works with no signal, nothing uploaded | [demo](https://aquascout.vercel.app) · [code](https://github.com/zhameersheraz/aquascout-site) |
+| Trash Sorter, camera classifier | Waste and recycling operators | Sorts at the point of disposal, browser only, no server cost per scan | [app](https://trash-sorter.enjeanearz.workers.dev/) · [code](https://github.com/zhameersheraz/trash-sorter) |
+| CFG Visualizer, 3D control flow | Security and reverse engineering teams | Opens any ELF, PE or Mach-O binary and flies through its control flow | [site](https://cfg-visualizer-eight.vercel.app) · [code](https://github.com/zhameersheraz/cfg-visualizer) |
+| ESP32sec, firmware toolkit | Firmware and IoT teams | Five tools in pure Python, no cloud, no telemetry | [code](https://github.com/zhameersheraz/esp32sec) |
+| Cloud security cheatsheet | AWS, Azure and GCP teams | Misconfiguration checks and commands in one live page | [site](https://zhameersheraz-cloud-security.vercel.app) · [code](https://github.com/zhameersheraz/cloud-security) |
+| Portfolio | Everything in one place | Live GitHub stats pulled from the API | [site](https://zhameersheraz-portfolio.vercel.app) · [code](https://github.com/zhameersheraz/portfolio) |
 
 ---
 
 ## <img src="https://api.iconify.design/lucide/trophy.svg?color=%23aaaaaa" width="18" height="18" style="vertical-align:middle"/> Track record
 
-- **Syborg CTF 2026** (Mar 29) - Team Digital Abyss. Placement champion, and top of the individual scoreboard.
-- **Provincial Cyberhunt League 2026** (Sep 16, DICT HackForGov) - Team KELZploit. Placement champion, and top of the individual scoreboard.
-- **60+ CTF challenges** solved and written up.
-- **18 certifications**, including Cisco Introduction to Cybersecurity, Cisco Ethical Hacker, Cisco Introduction to Modern AI and IBM AI Fundamentals.
+- **Syborg CTF 2026** - team champion, top of the individual scoreboard
+- **Provincial Cyberhunt League 2026, DICT HackForGov** - team champion, top of the individual scoreboard
+- 60+ CTF challenges solved and written up, 18 certifications from Cisco and IBM
 
 ---
 
@@ -63,15 +60,6 @@ I am a Computer Science undergraduate in the Philippines. Two CTF championships,
 
 ## <img src="https://api.iconify.design/lucide/award.svg?color=%23aaaaaa" width="18" height="18" style="vertical-align:middle"/> Badges
 
-<div align="center">
-
-<a href="https://committers.top/philippines_private" target="_blank" rel="noreferrer">
-  <img src="https://img.shields.io/badge/Top%2020-Philippines%20committer-ffffff?style=flat-square&logo=github&logoColor=white&labelColor=000000" alt="Top 20 committer in the Philippines on committers.top" />
-</a>
-
-<sub>Ranked in the <b>top 20 committers in the Philippines by total contributions</b> on <a href="https://committers.top/philippines_private">committers.top</a> (November 2026)</sub>
-
-</div>
 
 <table align="center">
   <tr>
@@ -110,106 +98,7 @@ I am a Computer Science undergraduate in the Philippines. Two CTF championships,
 
 ## <img src="https://api.iconify.design/lucide/wrench.svg?color=%23aaaaaa" width="18" height="18" style="vertical-align:middle"/> Stack
 
-What I reach for. Happy to work in whatever fits the problem.
-
-<table align="center">
-  <tr>
-    <td align="center" width="100">
-      <a href="https://www.java.com" target="_blank" rel="noreferrer">
-        <img src="https://skillicons.dev/icons?i=java" width="48" height="48" alt="Java" />
-      </a>
-      <br><b>Java</b>
-    </td>
-    <td align="center" width="100">
-      <a href="https://www.python.org" target="_blank" rel="noreferrer">
-        <img src="https://skillicons.dev/icons?i=python" width="48" height="48" alt="Python" />
-      </a>
-      <br><b>Python</b>
-    </td>
-    <td align="center" width="100">
-      <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
-        <img src="https://skillicons.dev/icons?i=javascript" width="48" height="48" alt="JavaScript" />
-      </a>
-      <br><b>JavaScript</b>
-    </td>
-    <td align="center" width="100">
-      <a href="https://www.typescriptlang.org" target="_blank" rel="noreferrer">
-        <img src="https://skillicons.dev/icons?i=typescript" width="48" height="48" alt="TypeScript" />
-      </a>
-      <br><b>TypeScript</b>
-    </td>
-    <td align="center" width="100">
-      <a href="https://www.php.net" target="_blank" rel="noreferrer">
-        <img src="https://skillicons.dev/icons?i=php" width="48" height="48" alt="PHP" />
-      </a>
-      <br><b>PHP</b>
-    </td>
-  </tr>
-  <tr>
-    <td align="center" width="100">
-      <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank" rel="noreferrer">
-        <img src="https://skillicons.dev/icons?i=html" width="48" height="48" alt="HTML5" />
-      </a>
-      <br><b>HTML5</b>
-    </td>
-    <td align="center" width="100">
-      <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank" rel="noreferrer">
-        <img src="https://skillicons.dev/icons?i=css" width="48" height="48" alt="CSS3" />
-      </a>
-      <br><b>CSS3</b>
-    </td>
-    <td align="center" width="100">
-      <a href="https://code.visualstudio.com" target="_blank" rel="noreferrer">
-        <img src="https://skillicons.dev/icons?i=vscode" width="48" height="48" alt="VS Code" />
-      </a>
-      <br><b>VS Code</b>
-    </td>
-    <td align="center" width="100">
-      <a href="https://www.jetbrains.com/idea/" target="_blank" rel="noreferrer">
-        <img src="https://api.iconify.design/logos/intellij-idea.svg" width="48" height="48" alt="IntelliJ" />
-      </a>
-      <br><b>IntelliJ</b>
-    </td>
-    <td align="center" width="100">
-      <a href="https://developer.android.com/studio" target="_blank" rel="noreferrer">
-        <img src="https://skillicons.dev/icons?i=androidstudio" width="48" height="48" alt="Android Studio" />
-      </a>
-      <br><b>Android Studio</b>
-    </td>
-  </tr>
-  <tr>
-    <td align="center" width="100">
-      <a href="https://www.linux.org" target="_blank" rel="noreferrer">
-        <img src="https://skillicons.dev/icons?i=linux" width="48" height="48" alt="Linux" />
-      </a>
-      <br><b>Linux</b>
-    </td>
-    <td align="center" width="100">
-      <a href="https://www.kali.org" target="_blank" rel="noreferrer">
-        <img src="https://skillicons.dev/icons?i=kali" width="48" height="48" alt="Kali" />
-      </a>
-      <br><b>Kali</b>
-    </td>
-    <td align="center" width="100">
-      <a href="https://ubuntu.com" target="_blank" rel="noreferrer">
-        <img src="https://skillicons.dev/icons?i=ubuntu" width="48" height="48" alt="Ubuntu" />
-      </a>
-      <br><b>Ubuntu</b>
-    </td>
-    <td align="center" width="100">
-      <a href="https://git-scm.com" target="_blank" rel="noreferrer">
-        <img src="https://skillicons.dev/icons?i=git" width="48" height="48" alt="Git" />
-      </a>
-      <br><b>Git</b>
-    </td>
-    <td align="center" width="100">
-      <a href="https://github.com" target="_blank" rel="noreferrer">
-        <img src="https://skillicons.dev/icons?i=github" width="48" height="48" alt="GitHub" />
-      </a>
-      <br><b>GitHub</b>
-    </td>
-  </tr>
-</table>
+Python · JavaScript · TypeScript · Java · PHP · Bash · HTML · CSS · Linux · Kali · Git · GitHub · VS Code · IntelliJ · Burp Suite · Wireshark · Nmap
 
 ---
 
