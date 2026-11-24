@@ -1,10 +1,51 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=00D9FF&center=true&vCenter=true&width=500&lines=CS+Student;Web+%26+Cloud" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&pause=1000&color=00D9FF&center=true&vCenter=true&width=540&lines=Software+that+ships;Security+and+reverse+engineering;Open+to+freelance+work" alt="Typing SVG" />
 
-![Repositories](https://img.shields.io/badge/dynamic/json?url=https://api.github.com/users/zhameersheraz&query=$.public_repos&label=Repositories&color=20b4cf&style=flat-square&labelColor=1C2128&logo=github)
+  ![Repositories](https://img.shields.io/badge/dynamic/json?url=https://api.github.com/users/zhameersheraz&query=$.public_repos&label=Repositories&color=20b4cf&style=flat-square&labelColor=1C2128&logo=github)
 
 </div>
+
+**I build working software and ship security tools. Open to freelance work, collabs and internships.**
+
+I am a Computer Science undergraduate in the Philippines. Two CTF championships, 18 certifications, 60+ challenges solved and written up, and a set of products that are live right now. Everything below has a working link.
+
+**Available for** freelance and contract work: restaurant and small business tooling, web and mobile apps, security assessments, firmware and reverse engineering work, and cloud hardening.
+
+---
+
+## <img src="https://api.iconify.design/lucide/briefcase.svg?color=%23aaaaaa" width="18" height="18" style="vertical-align:middle"/> What I build
+
+- **Order flow for small restaurants.** A counter tablet takes the order and the kitchen screen shows it the second it is sent. No paper tickets, no printer to buy or refill, no shouting across the pass, fewer wrong orders. [Live demo](https://kds-app-5d6v.onrender.com)
+- **Decision tools for farmers.** NASA satellite data turned into field level advice for ube growers, in Bisaya, Filipino or English. Which field to plant, which rotation to follow, compared against what they already do.
+- **Market data for retail investors.** 21 Philippine blue chips with 90 day candlestick charts, refreshed hourly, free, no terminal and no subscription. [Live site](https://zhameersheraz.github.io/ph-stocks/)
+- **Security work for teams.** Firmware analysis, control flow graph review, network scanning and cloud misconfiguration checks, so a team finds the hole before someone else does.
+- **Safety tooling that does not need a server.** Fire and smoke alerting that runs on the phone, sends a GPS pin to an emergency contact, keeps working with no signal and never uploads the camera feed.
+
+---
+
+## <img src="https://api.iconify.design/lucide/package.svg?color=%23aaaaaa" width="18" height="18" style="vertical-align:middle"/> Shipped and live
+
+| What it is | Who it is for | Status |
+| --- | --- | --- |
+| [KDS](https://github.com/zhameersheraz/kds-app) | Small restaurants and cafes | [Live demo](https://kds-app-5d6v.onrender.com) |
+| [UbiMap](https://github.com/zhameersheraz/ubimap) | Smallholder farmers in Zamboanga del Sur | NASA Space Apps 2026, Field Shift |
+| [PSE Dashboard](https://github.com/zhameersheraz/ph-stocks) | Filipino retail investors | [Live site](https://zhameersheraz.github.io/ph-stocks/) |
+| [AQUASCOUT](https://github.com/zhameersheraz/aquascout-site) | Workplace safety, runs offline | [Live demo](https://aquascout.vercel.app) |
+| [Trash Sorter](https://github.com/zhameersheraz/trash-sorter) | Waste and recycling operators | [Live app](https://trash-sorter.enjeanearz.workers.dev/) |
+| [CFG Visualizer](https://github.com/zhameersheraz/cfg-visualizer) | Security and reverse engineering teams | [Live site](https://cfg-visualizer-eight.vercel.app) |
+| [ESP32sec](https://github.com/zhameersheraz/esp32sec) | Firmware and IoT security | Open source Python toolkit |
+| [Cloud Security Cheatsheet](https://github.com/zhameersheraz/cloud-security) | AWS, Azure and GCP teams | [Live site](https://zhameersheraz-cloud-security.vercel.app) |
+| [Portfolio](https://github.com/zhameersheraz/portfolio) | Everything above in one place | [Live site](https://zhameersheraz-portfolio.vercel.app) |
+
+---
+
+## <img src="https://api.iconify.design/lucide/trophy.svg?color=%23aaaaaa" width="18" height="18" style="vertical-align:middle"/> Track record
+
+- **Syborg CTF 2026** (Mar 29) - Team Digital Abyss. Placement champion, and top of the individual scoreboard.
+- **Provincial Cyberhunt League 2026** (Sep 16, DICT HackForGov) - Team KELZploit. Placement champion, and top of the individual scoreboard.
+- **60+ CTF challenges** solved and written up.
+- **18 certifications**, including Cisco Introduction to Cybersecurity, Cisco Ethical Hacker, Cisco Introduction to Modern AI and IBM AI Fundamentals.
 
 ---
 
@@ -67,7 +108,9 @@
 
 ---
 
-## <img src="https://api.iconify.design/lucide/wrench.svg?color=%23aaaaaa" width="18" height="18" style="vertical-align:middle"/> Tools & Tech
+## <img src="https://api.iconify.design/lucide/wrench.svg?color=%23aaaaaa" width="18" height="18" style="vertical-align:middle"/> Stack
+
+What I reach for. Happy to work in whatever fits the problem.
 
 <table align="center">
   <tr>
