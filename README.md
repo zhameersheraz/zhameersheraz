@@ -61,6 +61,15 @@ Two CTF championships, 18 certifications, 60+ challenges written up. Every produ
 ## <img src="https://api.iconify.design/lucide/award.svg?color=%23aaaaaa" width="18" height="18" style="vertical-align:middle"/> Badges
 
 
+<div align="center">
+
+<a href="https://committers.top/philippines_private" target="_blank" rel="noreferrer">
+  <img src="https://img.shields.io/badge/Top%2023-Philippines%20committer-ffffff?style=flat-square&logo=github&logoColor=white&labelColor=000000" alt="Top 23 committer in the Philippines on committers.top" />
+</a>
+
+<sub>Ranked <b>#23 in the Philippines by total contributions</b> on <a href="https://committers.top/philippines_private">committers.top</a> (November 2026)</sub>
+
+</div>
 <table align="center">
   <tr>
     <td align="center" width="180">
