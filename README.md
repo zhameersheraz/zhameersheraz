@@ -25,10 +25,10 @@
 <div align="center">
 
 <a href="https://committers.top/philippines_private" target="_blank" rel="noreferrer">
-  <img src="https://img.shields.io/badge/Top%2020-Philippines%20committer-ffffff?style=flat-square&logo=github&logoColor=white&labelColor=000000" alt="Top 20 committer in the Philippines on committers.top" />
+  <img src="https://img.shields.io/badge/Top%2023-Philippines%20committer-ffffff?style=flat-square&logo=github&logoColor=white&labelColor=000000" alt="Top 23 committer in the Philippines on committers.top" />
 </a>
 
-<sub>Ranked in the <b>top 20 committers in the Philippines by total contributions</b> on <a href="https://committers.top/philippines_private">committers.top</a> (November 2026)</sub>
+<sub>Ranked <b>#23 in the Philippines by total contributions</b> on <a href="https://committers.top/philippines_private">committers.top</a> (November 2026)</sub>
 
 </div>
 
